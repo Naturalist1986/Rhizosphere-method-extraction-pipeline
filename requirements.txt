@@ -1,0 +1,9 @@
+pandas>=2.2.0
+openpyxl>=3.1.0
+requests>=2.31.0
+biopython>=1.83
+pyzotero>=1.5.0
+litellm>=1.40.0
+pypdf>=4.0.0
+pytest>=8.0.0
+pytest-xdist>=3.5.0

@@ -1,0 +1,1 @@
+{"choices":[{"message":{"content":"```json\n{\"doi\":\"10.1038/s41586-024-08123-w\",\"pmid\":\"39449039\",\"title\":\"Example rhizosphere paper\",\"abstract\":\"We sampled rhizosphere soil from maize roots…\",\"confidence\":\"high\",\"reasoning\":\"BioProject PRJNA1 is cited in the paper's data availability statement.\"}\n```"}}]}

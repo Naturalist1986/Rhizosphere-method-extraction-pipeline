@@ -1,0 +1,8 @@
+
+Methods
+
+Samples were collected from agricultural fields. Soil was processed in the laboratory
+using standard procedures. DNA was extracted and sequenced on an Illumina platform.
+Statistical analysis was performed using R version 4.1.
+
+Results

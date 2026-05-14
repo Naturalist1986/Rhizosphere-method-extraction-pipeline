@@ -1,0 +1,1069 @@
+bioproject,study_title,n_samples,paper_pmid,paper_doi,paper_title,paper_abstract_excerpt,search_status
+PRJDA61421,Rice rhizosphere metagenome,1,,,,,pending
+PRJDB10381,Rhizosphere metagenomics of a pioneer plant Miscanthus condensatus colonizing on the recent Miyake-jima volcanic deposits,1,,,,,pending
+PRJDB12268,Arabidopsis thaliana metagenomic sequencing,36,,,,,pending
+PRJDB1801,Metagenome of Sugar beet associated microorganisms,3,,,,,pending
+PRJDB19351,Metagenome information and system analysis of agricultural and fermented food environments (KAP220296),3,,,,,pending
+PRJDB27060,metagenomes of domestic dogs (PRJCA012963),166,,,,,pending
+PRJDB2986,Impact of sulfur fertilization on bacterial community associated with paddy rice root,3,,,,,pending
+PRJDB38596,Metagenomic sequencing data of seafood samples (PRJCA037904),28,,,,,pending
+PRJDB5626,Microbial metagenome analysis of soybean root nodules,8,,,,,pending
+PRJDB6691,Identification of nitrogen-fixing Bradyrhizobium associated with roots of field-grown sorghum by metagenome analyses,6,,,,,pending
+PRJEB102647,Soybean microbiome response to drought and recovery,39,,,,,pending
+PRJEB105165,Root-associated microbiome in rice plants under flooded conditions,36,,,,,pending
+PRJEB2041,,8,,,,,pending
+PRJEB28009,,7,,,,,pending
+PRJEB2821,Importance of rare bacterial taxa for microbial diversity in the maize rhizosphere,10,,,,,pending
+PRJEB2917,Changes in Root Bacterial Communities Associated to Two Different Development Stages of Canola Evaluated through Next-Generation Sequencing Technology,1,,,,,pending
+PRJEB29175,,3,,,,,pending
+PRJEB30336,Differences between plant species in rhizosphere metatranscriptome function,82,,,,,pending
+PRJEB31415,,12,,,,,pending
+PRJEB35612,"In this study we assessed the effects of indirect exposure of antibiotics via irrigation water in microbiomes and resistomes composition of soil and Lactuca Sativa (Lettuce) in a controlled setting. We collected samples from soil and roots, and microbiome composition of all samples went through shotgun-sequencing.",3,,,,,pending
+PRJEB37438,,5,,,,,pending
+PRJEB40903,DNA extraction comparison testing 2019-2020,116,,,,,pending
+PRJEB42789,,12,,,,,pending
+PRJEB51329,Microbial communities of the Aral Sea,9,,,,,pending
+PRJEB56450,Pervasive effect of dark septate fungi on tree root and soil microbiomes,52,,,,,pending
+PRJEB57985,"Shotgun metagenomics approach to identify carbohydrate-active enzyme genes and to analyze taxonomic diversity from microbial communities of Menagesha Suba forest soil, Ethiopia. .",2,,,,,pending
+PRJEB58067,Metagenomics approach for taxonomic classification and identification of biosynthetic gene-clusters from soil microbiome.,2,,,,,pending
+PRJEB61641,,12,,,,,pending
+PRJEB77048,,8,,,,,pending
+PRJNA1000035,,1,,,,,pending
+PRJNA1000189,,1,,,,,pending
+PRJNA1000190,,1,,,,,pending
+PRJNA1001274,,199,,,,,pending
+PRJNA1001993,Soil metagenomes at different stages of grape growth.,105,,,,,pending
+PRJNA1013255,The rhizosphere soil of Apium graveolens Linn Raw sequence reads,12,,,,,pending
+PRJNA1014123,"Rhizosphere soil microbial communities from rice plants in Newark, Delaware, United States - Rhiz_9IH_GED metagenome",1,,,,,pending
+PRJNA1014704,Microbiome of maize root compartments from an experiment with fertilization and cropping treatments in Northeast China,30,,,,,pending
+PRJNA1014740,Cycad coralloid root microbial communities,34,,,,,pending
+PRJNA1015279,"Microbial community composition in the soil, rhizosphere and nodule of common bean (Phaseolus vulgaris)",20,,,,,pending
+PRJNA1015391,Drought potassium application microorganisms,24,,,,,pending
+PRJNA1016115,Metagenomics analysis of microbial diversity of rhizosphere of basmati rice( Oryza sativa L.),6,,,,,pending
+PRJNA1016491,Metagenomic data of rhizosphere soil methylation,4,,,,,pending
+PRJNA1016570,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-904-Co3_16_51 endosphere metagenome",1,,,,,pending
+PRJNA1016571,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-905-CL1_32_20 endosphere metagenome",1,,,,,pending
+PRJNA1016572,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-11047-CL1_23_5 endosphere metagenome",1,,,,,pending
+PRJNA1016573,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-11047-CL2_41_30 endosphere metagenome",1,,,,,pending
+PRJNA1016574,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL1_25_23 endosphere metagenome",1,,,,,pending
+PRJNA1016575,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL2_50_20 endosphere metagenome",1,,,,,pending
+PRJNA1016576,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL3_72_14 endosphere metagenome",1,,,,,pending
+PRJNA1016577,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-4579-Co1_14_4 endosphere metagenome",1,,,,,pending
+PRJNA1016578,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-4579-Co2_44_8 endosphere metagenome",1,,,,,pending
+PRJNA1016579,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-4579-Co3_14_51 endosphere metagenome",1,,,,,pending
+PRJNA1016580,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co1_37_5 endosphere metagenome",1,,,,,pending
+PRJNA1016581,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co2_68_28 endosphere metagenome",1,,,,,pending
+PRJNA1016582,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-7986-Co3_31_39 endosphere metagenome",1,,,,,pending
+PRJNA1016583,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-9591-CL1_34_16 endosphere metagenome",1,,,,,pending
+PRJNA1016584,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-9591-CL2_56_12 endosphere metagenome",1,,,,,pending
+PRJNA1016585,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-9591-CL3_98_5 endosphere metagenome",1,,,,,pending
+PRJNA1016586,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co1_16_8 endosphere metagenome",1,,,,,pending
+PRJNA1016587,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co2_62_24 endosphere metagenome",1,,,,,pending
+PRJNA1016588,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - GW-9591-Co3_35_48 endosphere metagenome",1,,,,,pending
+PRJNA1016589,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - SKWA-24-3-CL2_69_25 endosphere metagenome",1,,,,,pending
+PRJNA1016590,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co1_3_5 endosphere metagenome",1,,,,,pending
+PRJNA1016591,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co2_41_10 endosphere metagenome",1,,,,,pending
+PRJNA1016592,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWA-24-3-Co3_23_35 endosphere metagenome",1,,,,,pending
+PRJNA1016593,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - SKWD-24-1-CL2_58_25 endosphere metagenome",1,,,,,pending
+PRJNA1016594,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co1_7_5 endosphere metagenome",1,,,,,pending
+PRJNA1016595,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co2_54_22 endosphere metagenome",1,,,,,pending
+PRJNA1016596,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - SKWD-24-1-Co3_24_32 endosphere metagenome",1,,,,,pending
+PRJNA1016597,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - GW-4579-CL1_25_23_RD_R2 endosphere metagenome",1,,,,,pending
+PRJNA1016623,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-866-CL2_50_11 endosphere metagenome",1,,,,,pending
+PRJNA1016624,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-866-CL3_75_7 endosphere metagenome",1,,,,,pending
+PRJNA1016625,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-866-Co1_10_5 endosphere metagenome",1,,,,,pending
+PRJNA1016626,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-866-Co2_58_19 endosphere metagenome",1,,,,,pending
+PRJNA1016627,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-904-CL2_57_20 endosphere metagenome",1,,,,,pending
+PRJNA1016628,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-904-Co2_51_17 endosphere metagenome",1,,,,,pending
+PRJNA1016629,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-234-CL1_24_28 endosphere metagenome",1,,,,,pending
+PRJNA1016630,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-234-CL2_65_22 endosphere metagenome",1,,,,,pending
+PRJNA1016631,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co1_23_3 endosphere metagenome",1,,,,,pending
+PRJNA1016632,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co2_52_27 endosphere metagenome",1,,,,,pending
+PRJNA1016633,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-234-Co3_21_62 endosphere metagenome",1,,,,,pending
+PRJNA1016634,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-258-CL1_34_5 endosphere metagenome",1,,,,,pending
+PRJNA1016635,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-258-CL2_67_23 endosphere metagenome",1,,,,,pending
+PRJNA1016637,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-285-CL1_33_12 endosphere metagenome",1,,,,,pending
+PRJNA1016638,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-285-CL2_56_7 endosphere metagenome",1,,,,,pending
+PRJNA1016639,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-307-CL1_26_33 endosphere metagenome",1,,,,,pending
+PRJNA1016640,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-307-CL2_57_8 endosphere metagenome",1,,,,,pending
+PRJNA1016641,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-307-Co1_31_6 endosphere metagenome",1,,,,,pending
+PRJNA1016642,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-307-Co2_62_14 endosphere metagenome",1,,,,,pending
+PRJNA1016643,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-307-Co3_27_41 endosphere metagenome",1,,,,,pending
+PRJNA1016644,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-331-CL2_55_18 endosphere metagenome",1,,,,,pending
+PRJNA1016645,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-331-Co1_12_7 endosphere metagenome",1,,,,,pending
+PRJNA1016646,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-331-Co2_50_17 endosphere metagenome",1,,,,,pending
+PRJNA1016647,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-331-Co3_15_40 endosphere metagenome",1,,,,,pending
+PRJNA1016648,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-351-CL1_27_10 endosphere metagenome",1,,,,,pending
+PRJNA1016649,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-351-CL2_54_28 endosphere metagenome",1,,,,,pending
+PRJNA1016650,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-351-CL3_84_27 endosphere metagenome",1,,,,,pending
+PRJNA1016651,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-351-Co1_10_3 endosphere metagenome",1,,,,,pending
+PRJNA1016652,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-351-Co2_42_17 endosphere metagenome",1,,,,,pending
+PRJNA1016653,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-351-Co3_11_46 endosphere metagenome",1,,,,,pending
+PRJNA1016654,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-360-CL2_44_14 endosphere metagenome",1,,,,,pending
+PRJNA1016655,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-360-CL3_72_12 endosphere metagenome",1,,,,,pending
+PRJNA1016656,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co1_23_6 endosphere metagenome",1,,,,,pending
+PRJNA1016657,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co2_62_25 endosphere metagenome",1,,,,,pending
+PRJNA1016658,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-360-Co3_13_34 endosphere metagenome",1,,,,,pending
+PRJNA1016659,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-388-CL1_25_34 endosphere metagenome",1,,,,,pending
+PRJNA1016660,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-388-CL2_50_4 endosphere metagenome",1,,,,,pending
+PRJNA1016661,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-388-CL3_88_3 endosphere metagenome",1,,,,,pending
+PRJNA1016662,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-388-Co2_54_7 endosphere metagenome",1,,,,,pending
+PRJNA1016663,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-388-Co3_8_57 endosphere metagenome",1,,,,,pending
+PRJNA1016664,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-448-CL1_35_3 endosphere metagenome",1,,,,,pending
+PRJNA1016665,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-470-CL2_38_23 endosphere metagenome",1,,,,,pending
+PRJNA1016666,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-56-Co1_22_4 endosphere metagenome",1,,,,,pending
+PRJNA1016667,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-56-Co3_6_53 endosphere metagenome",1,,,,,pending
+PRJNA1016668,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-833-CL2_42_16 endosphere metagenome",1,,,,,pending
+PRJNA1016669,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-833-CL3_77_6 endosphere metagenome",1,,,,,pending
+PRJNA1016670,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-833-Co1_6_4 endosphere metagenome",1,,,,,pending
+PRJNA1016671,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-833-Co2_47_23 endosphere metagenome",1,,,,,pending
+PRJNA1016672,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-833-Co3_31_37 endosphere metagenome",1,,,,,pending
+PRJNA1016673,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-845-CL2_37_16 endosphere metagenome",1,,,,,pending
+PRJNA1016674,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-845-CL3_80_19 endosphere metagenome",1,,,,,pending
+PRJNA1016675,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-845-Co2_60_28 endosphere metagenome",1,,,,,pending
+PRJNA1016676,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-845-Co3_28_42 endosphere metagenome",1,,,,,pending
+PRJNA1016677,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-847-CL1_28_5 endosphere metagenome",1,,,,,pending
+PRJNA1016678,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-847-CL2_38_7 endosphere metagenome",1,,,,,pending
+PRJNA1016679,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-847-CL3_83_27 endosphere metagenome",1,,,,,pending
+PRJNA1016680,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-847-Co1_12_9 endosphere metagenome",1,,,,,pending
+PRJNA1016681,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-847-Co2_69_13 endosphere metagenome",1,,,,,pending
+PRJNA1016682,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-847-Co3_9_34 endosphere metagenome",1,,,,,pending
+PRJNA1016683,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-86-CL2_69_17 endosphere metagenome",1,,,,,pending
+PRJNA1016795,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL1_35_33 endosphere metagenome",1,,,,,pending
+PRJNA1016796,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL2_39_29 endosphere metagenome",1,,,,,pending
+PRJNA1016797,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-13-CL3_85_26 endosphere metagenome",1,,,,,pending
+PRJNA1017086,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-13-Co1_30_3 endosphere metagenome",1,,,,,pending
+PRJNA1017087,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-13-Co2_41_23 endosphere metagenome",1,,,,,pending
+PRJNA1017089,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-13-Co3_21_57 endosphere metagenome",1,,,,,pending
+PRJNA1017090,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-133-CL1_28_16 endosphere metagenome",1,,,,,pending
+PRJNA1017091,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-133-CL2_62_7 endosphere metagenome",1,,,,,pending
+PRJNA1017092,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-133-CL3_93_10 endosphere metagenome",1,,,,,pending
+PRJNA1017093,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-133-Co1_27_3 endosphere metagenome",1,,,,,pending
+PRJNA1017094,"Root microbial communities from poplar common garden site in Corvallis, Oregon, USA - BESC-133-Co2_50_25 endosphere metagenome",1,,,,,pending
+PRJNA1017095,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-198-CL2_38_5 endosphere metagenome",1,,,,,pending
+PRJNA1017096,"Root microbial communities from poplar common garden site in Clatskanie, Oregon, USA - BESC-198-CL3_81_33 endosphere metagenome",1,,,,,pending
+PRJNA1017462,Rhizobiome of Ricinus communis,6,,,,,pending
+PRJNA1017550,Drought studies,7,,,,,pending
+PRJNA1020892,White maize rhizosphere studies,9,,,,,pending
+PRJNA1022580,"16S, OmeSeq-qRRS, and shotgun sequencing of maize rhizosphere",4,,,,,pending
+PRJNA1022846,,2,,,,,pending
+PRJNA1029928,Rhizosphere soil Raw sequence reads,24,,,,,pending
+PRJNA1033318,"The microbial communities of rhizosphere soils of Phragmites australis and bulk soils in Taihu Lake, China",3,,,,,pending
+PRJNA1033771,Metagenomic sequencing of Rhizosphere microbiome of Arabidopsis,20,,,,,pending
+PRJNA1039885,Microbial diversity in the rhizosphere of Phragmites australis,3,,,,,pending
+PRJNA1040208,Rhizosphere soil metagenome Metagenome,20,,,,,pending
+PRJNA1043713,soil metagenome,24,,,,,pending
+PRJNA1043729,seawater Raw sequence reads,22,,,,,pending
+PRJNA1045646,Metagenomes of Carex aquatilis rhizosphere and root samples from a pilot-scale constructed wetland treatment system for the remediation of oil sands process-affected water,24,,,,,pending
+PRJNA1055283,,15,,,,,pending
+PRJNA1058951,Microbiological Mechanism of Nitrogen Forms and Concentrations in Regulating Cadmium Accumulation in Crops following Stabilization in Contaminated Agricultural Soil,24,,,,,pending
+PRJNA1061379,,27,,,,,pending
+PRJNA1063725,Viral ecogenomics in the rhizosphere of native Antarctic vascular plants. Raw sequencing reads.,10,,,,,pending
+PRJNA1066998,bacterial community data of Astragalus mongholicus,36,,,,,pending
+PRJNA1067324,Host-mediated microbiome selection to improve drought tolerance of rice,37,,,,,pending
+PRJNA1067393,Rhizosphere of Pteris vittata,25,,,,,pending
+PRJNA1069314,Reclaimed water metagenome,13,,,,,pending
+PRJNA1074526,Utilization of Citrus Microbiome in Rejuvenating Khasi Mandarin Plants affected by important Citrus Diseases,2,,,,,pending
+PRJNA1078772,,36,,,,,pending
+PRJNA1079048,tomaoto rhizosphere metagenome,12,,,,,pending
+PRJNA1080489,rhizosphere microbiome metagenomics of plant,12,,,,,pending
+PRJNA1081183,Reclaimed water April metagenome,14,,,,,pending
+PRJNA1083094,Rhizosphere soil sample in herbal plant Metagenome,12,,,,,pending
+PRJNA1083890,Bacterial community in the rhizosphere of Ruppia sinensis and Zostera japonica Raw sequence reads,8,,,,,pending
+PRJNA1085293,Quorum sensing mediated bacterial interspecies communication in soybean rhizosphere,30,,,,,pending
+PRJNA1090919,Microbiomes of ten diverse soil protists,11,,,,,pending
+PRJNA1096928,Construction of high-quality genomes and gene catalogue for culturable microbes of sugarcane (Saccharum spp.),16,,,,,pending
+PRJNA1100267,Noccaea root and soil metagenomes,18,,,,,pending
+PRJNA1101696,rhizosphere soil Metagenome,9,,,,,pending
+PRJNA1104571,Root microbiome in two canola genotypes with contrasting yield productivity,24,,,,,pending
+PRJNA1104585,Isolates from croping systems,24,,,,,pending
+PRJNA1108915,Metagenomes and metatranscriptomes of natural soil and Arabidopsis rhizosphere inoculated with Pseudomonas simiae WCS417,11,,,,,pending
+PRJNA1110046,"Metagenomics investigation of wheat rhizosphere in the North West and Gauteng Provinces, South Africa,",8,,,,,pending
+PRJNA1116623,Metagenomic sequencing in 83 plots,3,,,,,pending
+PRJNA1119562,Soil metagenome Raw sequence reads,9,,,,,pending
+PRJNA1121629,Functional metagenomics data from milkweed phyllospheres and rhizospheres,5,,,,,pending
+PRJNA1123452,Microbial community diversity of Asparagus cochinchinensis,9,,,,,pending
+PRJNA1124010,Metagenome of the Microbiome Associated with the Rhizosphere of Dactylorhiza traunsteineri,2,,,,,pending
+PRJNA1124873,Amplicon and metagenome sequence data of rice root microbiome Raw sequence reads,2,,,,,pending
+PRJNA1125628,Microbial N cycle functionality in the rhizosphere of rye,31,,,,,pending
+PRJNA1126017,Wheat rhizosphere Raw sequence reads,2,,,,,pending
+PRJNA1127303,Metagenomic data of rhizosphere soil during tomato growth period.,18,,,,,pending
+PRJNA1128034,Shotgun metagenomics reveal a potential loss of functions in rhizosphere microbiome after wheat dwarfing,20,,,,,pending
+PRJNA1128242,Wheat-rhizome-metagenome Raw sequence reads,6,,,,,pending
+PRJNA1128356,,15,,,,,pending
+PRJNA1129190,Inoculation with a rhizobacteria synthetic community enhances sugarcane stress resilience through targeted modulation of plant-microbe interactions,18,,,,,pending
+PRJNA1130692,,12,,,,,pending
+PRJNA1131028,soil metagenome,3,,,,,pending
+PRJNA1131171,Reclaimed water metagenome -November,14,,,,,pending
+PRJNA1131174,High throughput sequencing of rhizosphere soil microorganisms of three main tree species in Helan Mountain,9,,,,,pending
+PRJNA1131609,,12,,,,,pending
+PRJNA1131994,"Complex Synthetic Community inoculated-root microbiomes of Arabidopsis thaliana, Hordeum vulgare, and Lotus japonicus",354,,,,,pending
+PRJNA1133100,Metagenomic sequencing of rhizosphere soil,9,,,,,pending
+PRJNA1140101,,35,,,,,pending
+PRJNA1140286,rhizosphere soil of Sophora japonica Raw sequence reads,9,,,,,pending
+PRJNA1140407,the rhizosphere microbes for Brassica oleracea Raw sequence reads,21,,,,,pending
+PRJNA1140885,,1,,,,,pending
+PRJNA1140886,,1,,,,,pending
+PRJNA1140887,,1,,,,,pending
+PRJNA1140888,,1,,,,,pending
+PRJNA1148231,Microbiomes associated with rice false smut (Ustilaginoidea virens) and the genomes of key isolated microorganisms,36,,,,,pending
+PRJNA1148749,Human or Rice microbiome Raw sequence reads,33,,,,,pending
+PRJNA1148772,,4,,,,,pending
+PRJNA1152322,Virome in the rhizosphere soil of Casuarina equisetifolia Raw sequence reads,6,,,,,pending
+PRJNA1152941,Nitrogen metabolism mediates the trade-off between plant growth-promotion and pathogen suppression during successive passaging of rhizosphere microbiome-shotgun metagenome,2,,,,,pending
+PRJNA1153634,The metagenomic relevant the occurrence of root rot disease in wine grape,40,,,,,pending
+PRJNA1155230,Metagenomic data of Dahongpao tea tree soil,6,,,,,pending
+PRJNA1156343,Phragmites australis Raw sequence reads,2,,,,,pending
+PRJNA1160829,soil metagenomic sequencing,6,,,,,pending
+PRJNA1162681,Diversity and functional features of the root-associated bacteriome are closely dependent on grapevine susceptibility to Plasmopara viticola,18,,,,,pending
+PRJNA1165971,Interplay Between Microorganisms and Vanadium: Adaptation and Transformation Dynamics in Soil-Plant Systems,2,,,,,pending
+PRJNA1166242,Sorghum rhizosphere microbiome,3,,,,,pending
+PRJNA1166458,Sorghum (Avenger) rhizosphere microbiome under soybean,3,,,,,pending
+PRJNA1166463,Sorghum (NS55) rhizosphere microbiome under soybean,3,,,,,pending
+PRJNA1166623,Sorghum (Avenger) rhizosphere microbiome,3,,,,,pending
+PRJNA1166627,Sorghum rhizosphere (NS55) grown in soil without prior legume cultivation,3,,,,,pending
+PRJNA1166630,Sorghum (Avenger) bulk soil microbiome,3,,,,,pending
+PRJNA1166921,,30,,,,,pending
+PRJNA1168160,Sorghum (NS55) rhizosphere microbiome under cowpea,3,,,,,pending
+PRJNA1169405,Sequential propagation of a reproducible wheat rhizosphere microbiome,6,,,,,pending
+PRJNA1169419,Rhizosphere metagenome Raw sequence reads,12,,,,,pending
+PRJNA1170225,Microbial diversity of Allium ampeloprasum rhizosphere from chemical fertilizer plot,4,,,,,pending
+PRJNA1170227,Microbial diversity of Allium ampeloprasum rhizosphere from Biofertilizer plot,4,,,,,pending
+PRJNA1170280,Daucus carota Rhizosphere Microbiome,4,,,,,pending
+PRJNA1170291,Microbial diversity of uncultivated bulk soil,4,,,,,pending
+PRJNA1174881,Spartina alterniflora Raw sequence reads,4,,,,,pending
+PRJNA1177211,Metagenomic sequencing of Spartina root microbiome,16,,,,,pending
+PRJNA1180719,Microbial communities in antimony mine pioneer plant rhizosphere,6,,,,,pending
+PRJNA1180987,Biochar-soil-earthworm-plant systems-Metagenome sequencing,16,,,,,pending
+PRJNA1181896,Rhizosphere microbiome associated with the two ecotypes of Andropogon gerardii,24,,,,,pending
+PRJNA1182100,metagenomic of plant root soil,15,,,,,pending
+PRJNA1184367,Crop root bacterial and viral genome resources unveil novel species and conserved patterns of root microbiomes: metagenomic resource,403,,,,,pending
+PRJNA1188780,,11,,,,,pending
+PRJNA1189183,amplicon and metagenomic sequencing of Pogonatum cirratum (Raw sequence reads),1,,,,,pending
+PRJNA1191511,Comparative Metagenomic Study of the Rhizospheric Microbiome of Ashwagandha Plant,5,,,,,pending
+PRJNA1192032,,226,,,,,pending
+PRJNA1192390,Macrogenome of Microbes in the Rhizosphere of Pinus massoniana,12,,,,,pending
+PRJNA1192692,,2,,,,,pending
+PRJNA1193482,soil Raw sequence reads,18,,,,,pending
+PRJNA1193780,Selenium and Cadmium associated soil microbiome,9,,,,,pending
+PRJNA1193808,Sutrl1 2 gene associated metagenomics,9,,,,,pending
+PRJNA1193822,Rhizosphere microbiome analysis in rice under drip and flood conditions,8,,,,,pending
+PRJNA1197982,Microbial diversity of different wine grape varieties,39,,,,,pending
+PRJNA1198935,Metagenome sequencing of the rhizosphere microbiome of common beans tolerant to drought,23,,,,,pending
+PRJNA1201563,The Rhizosphere Carbon Project,42,,,,,pending
+PRJNA1210801,The tobacco root microbiome under host-mediated and pathogen-induced conditions Raw sequence reads,5,,,,,pending
+PRJNA1211292,Asynchronous viral spread of two unrelated viruses determines Lettuce Big Vein Disease symptom development,31,,,,,pending
+PRJNA1214415,New Autoinducing Peptides Regulate Antibiotic Production for Sculpting Microbiome,15,,,,,pending
+PRJNA1215819,Endophytes associated with Rhizophora mangle and Avicenia germinans,6,,,,,pending
+PRJNA1215964,Arabidopsis rhizosphere 16srRNA+meta+tran,20,,,,,pending
+PRJNA1220575,,27,,,,,pending
+PRJNA1220599,,27,,,,,pending
+PRJNA1221226,Metagenome of tomato rhizosphere soil,40,,,,,pending
+PRJNA1221371,Root metagenome,15,,,,,pending
+PRJNA1223431,"Metagenome of contaminated soil from the old smelter in Avalos Chihuahua, Mexico. (Raw sequence reads)",2,,,,,pending
+PRJNA1223678,,3,,,,,pending
+PRJNA1225913,,16,,,,,pending
+PRJNA1226121,,16,,,,,pending
+PRJNA1229187,normal metagenome of environmental samples,1,,,,,pending
+PRJNA1229785,,4,,,,,pending
+PRJNA1232186,Draft Metagenomes of Wild and Cultivated Fragaria chiloensis Rhizospheres harboring biosynthetic clusters for stress adaptation,10,,,,,pending
+PRJNA1232220,Belowground responses of Spartina alterniflora on plant interspecific interaction,9,,,,,pending
+PRJNA1233945,Metagenomes from coniferous forest soils,15,,,,,pending
+PRJNA1235941,Soil microbial diversity and soil physicochemical correlation in Atractylodes japonica Koidz.ex Kitam.,4,,,,,pending
+PRJNA1246416,rhizosphere soil microbiome,12,,,,,pending
+PRJNA1248781,Soil metagenome Raw sequence reads,4,,,,,pending
+PRJNA1250808,Study on the Risks of Arsenic and Antibiotic Co-contamination to Antibiotic Resistance Genes (ARGs) in the Food Chain and Biochar-Mediated Regulation,32,,,,,pending
+PRJNA1254973,,6,,,,,pending
+PRJNA1255304,Biological and Soil Indicators of Environmental Stress in Cropping Systems Irrigated with Produced Water,9,,,,,pending
+PRJNA1257062,,20,,,,,pending
+PRJNA1266611,,30,,,,,pending
+PRJNA1267775,,3,,,,,pending
+PRJNA1267835,,16,,,,,pending
+PRJNA1268148,,10,,,,,pending
+PRJNA1271004,Metagenomic analysis of soil treated with cow dung based bioformulations from indigenous and exotic breeds to analyse microbial diversity,8,,,,,pending
+PRJNA1271606,cultivated rice rhizosphere soil for Metagenome Raw sequence reads,54,,,,,pending
+PRJNA1273084,Desert soil culture-enriched metagenomics,1,,,,,pending
+PRJNA1273494,Shotgun Metagenomic Sequencing of Tomato Rhizosphere Soil from Kenya for Identification of Indigenous Ralstonia-targeting Bacteriophages,1,,,,,pending
+PRJNA1273694,Rhizosphere soil and root endophytic fungal samples Raw sequence reads,8,,,,,pending
+PRJNA1275579,Identification of New Microbial Species,1,,,,,pending
+PRJNA1277360,Multi-element amendment reshapes rhizosphere microbiome: A microbially-driven Fe/Mn/S synergistic action for Cd immobilization,36,,,,,pending
+PRJNA1281071,DMSP cycling in spartina anglica rhizosphere,12,,,,,pending
+PRJNA1281299,Identification of new species and determination of physiological and biochemical indicators,3,,,,,pending
+PRJNA1282495,,12,,,,,pending
+PRJNA1283362,Study on the colonization of microorganisms in the garlic rhizosphere,3,,,,,pending
+PRJNA1283476,The role of quorum sensing in rhizosphere community regulation during bacterial wilt pathogen invasion,12,,,,,pending
+PRJNA1291156,Rhizosphere microbiome of chili pepper,54,,,,,pending
+PRJNA1294162,PGPB effect on tomato under different irrigation conditions,10,,,,,pending
+PRJNA1294524,The second batch of identification of new microbial species,12,,,,,pending
+PRJNA1301010,longterm fertilizer Raw sequence reads,12,,,,,pending
+PRJNA1307227,,33,,,,,pending
+PRJNA1309759,Shotgun metagenomic sequencing of marigold rhizosphere inoculated with phosphate-solubilizing bacteria,19,,,,,pending
+PRJNA1310735,Albizia odoratissima Raw sequence reads,10,,,,,pending
+PRJNA1311632,Microbiomes of the rhizosphere and roots of wheats with or without symptoms of Fusarium head blight,54,,,,,pending
+PRJNA1312297,Rauwolfia serpentina root and rhizosphere microbiome,2,,,,,pending
+PRJNA1313916,"Potato response to low nitrogen stress: analysis from gene differential expression, metabolites to rhizosphere microorganisms",6,,,,,pending
+PRJNA1314382,Microalgae inoculation should return to the root,12,,,,,pending
+PRJNA1315336,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - Amp1xRhiz39 metagenome",1,,,,,pending
+PRJNA1315382,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - HLGB5xRhiz61 metagenome",1,,,,,pending
+PRJNA1315383,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - MV2xRhiz26 metagenome",1,,,,,pending
+PRJNA1315386,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - AmpBxRhiz30 metagenome",1,,,,,pending
+PRJNA1315387,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - HLGB4xRhiz60 metagenome",1,,,,,pending
+PRJNA1315431,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - MV1xRhiz28 metagenome",1,,,,,pending
+PRJNA1315669,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - HLGB6xRhiz45 metagenome",1,,,,,pending
+PRJNA1315740,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WhC2xBulk55 metagenome",1,,,,,pending
+PRJNA1315826,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WT24xRhiz metagenome",1,,,,,pending
+PRJNA1315920,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - MV3xRhiz32 metagenome",1,,,,,pending
+PRJNA1315923,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WhC4xRhiz51 metagenome",1,,,,,pending
+PRJNA1316035,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSC4R metagenome",1,,,,,pending
+PRJNA1316036,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSC1E metagenome",1,,,,,pending
+PRJNA1316037,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COC2E metagenome",1,,,,,pending
+PRJNA1316093,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - HLGB2xRhiz41 metagenome",1,,,,,pending
+PRJNA1316101,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSA2R metagenome",1,,,,,pending
+PRJNA1316102,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COC3E metagenome",1,,,,,pending
+PRJNA1316104,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COA2R metagenome",1,,,,,pending
+PRJNA1316117,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COC1R metagenome",1,,,,,pending
+PRJNA1316118,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COA4E metagenome",1,,,,,pending
+PRJNA1316121,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSC3R metagenome",1,,,,,pending
+PRJNA1316167,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - Ob2xRhiz28 metagenome",1,,,,,pending
+PRJNA1316168,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - Whc1xRhiz42 metagenome",1,,,,,pending
+PRJNA1316214,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COC2R metagenome",1,,,,,pending
+PRJNA1316218,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSC1R metagenome",1,,,,,pending
+PRJNA1316219,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSC2E metagenome",1,,,,,pending
+PRJNA1316221,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COC4E metagenome",1,,,,,pending
+PRJNA1316295,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COC1E metagenome",1,,,,,pending
+PRJNA1316320,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - Ob3xRhiz38 metagenome",1,,,,,pending
+PRJNA1316506,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COA3E metagenome",1,,,,,pending
+PRJNA1316537,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COA3R metagenome",1,,,,,pending
+PRJNA1316538,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COA1E metagenome",1,,,,,pending
+PRJNA1316610,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COC4R metagenome",1,,,,,pending
+PRJNA1316652,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COA2E_TR metagenome",1,,,,,pending
+PRJNA1316653,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COC3R metagenome",1,,,,,pending
+PRJNA1316694,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSC2R1 metagenome",1,,,,,pending
+PRJNA1316736,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSC4E metagenome",1,,,,,pending
+PRJNA1316737,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - COA2E metagenome",1,,,,,pending
+PRJNA1316763,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSA1E metagenome",1,,,,,pending
+PRJNA1316895,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSA1R metagenome",1,,,,,pending
+PRJNA1316969,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WT40xRhiz metagenome",1,,,,,pending
+PRJNA1316971,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - Amp2xRhiz35 metagenome",1,,,,,pending
+PRJNA1316997,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COA1R metagenome",1,,,,,pending
+PRJNA1317017,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - COA4R metagenome",1,,,,,pending
+PRJNA1317023,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSA4R metagenome",1,,,,,pending
+PRJNA1317104,"Rhizosphere microbial communities from millet plant in semiarid region near Thies, Senegal - CSA3R metagenome",1,,,,,pending
+PRJNA1317133,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WhC5xRhiz39 metagenome",1,,,,,pending
+PRJNA1317186,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSA2E metagenome",1,,,,,pending
+PRJNA1317289,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSA4E metagenome",1,,,,,pending
+PRJNA1317295,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WT30xRhiz metagenome",1,,,,,pending
+PRJNA1317338,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSC3E2 metagenome",1,,,,,pending
+PRJNA1317339,"Roots microbial communities from millet plant in semiarid region near Thies, Senegal - CSC3E1 metagenome",1,,,,,pending
+PRJNA1317377,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - HLGB1xRhiz30 metagenome",1,,,,,pending
+PRJNA1317469,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - HLGB3xRhiz49 metagenome",1,,,,,pending
+PRJNA1317471,"Rosette grass rhizosphere soil microbial communities from Yellowstone Nat. Park, Wyoming, USA - WhC3xRhiz35 metagenome",1,,,,,pending
+PRJNA1328935,Rhizosphere soil Metagenome,16,,,,,pending
+PRJNA1334533,symbiotic microbes of below-ground seagrass tissues Raw metaG sequence reads,23,,,,,pending
+PRJNA1334534,sediment microbes in seagrass meadows Raw metaG sequence reads,6,,,,,pending
+PRJNA1337312,,6,,,,,pending
+PRJNA1337344,MICROBIOME ENGINEERING IN SUSCEPTIBLE COMMERCIAL BANANA CULTIVAR TO ENABLE FUSARIUM WILT RESISTANCE,4,,,,,pending
+PRJNA1338037,Prunus persica Raw sequence reads,6,,,,,pending
+PRJNA1338491,Metagenomic analysis of the rhizosphere microbiome of Corylus trees displaying differing levels of Anisogramma anomala disease resistance,15,,,,,pending
+PRJNA1339071,"Rhizosphere soil microbial communities from sorghum plant in University of Arizona Maricopa Agricultural Center, AZ, USA - 11_0-15_MAC_RHIZO_20210810 metagenome",1,,,,,pending
+PRJNA1339088,"Rhizosphere soil microbial communities from sorghum plant in University of Arizona Maricopa Agricultural Center, AZ, USA - 8_0-15_MAC_RHIZO_20210810 metagenome",1,,,,,pending
+PRJNA1339122,"Rhizosphere soil microbial communities from sorghum plant in University of Arizona Maricopa Agricultural Center, AZ, USA - 6_0-15_MAC_RHIZO_20210810 metagenome",1,,,,,pending
+PRJNA1339123,"Rhizosphere soil microbial communities from sorghum plant in University of Arizona Maricopa Agricultural Center, AZ, USA - 10_0-15_MAC_RHIZO_20210810 metagenome",1,,,,,pending
+PRJNA1340374,"Switchgrass rhizosphere microbial communities from common garden in Columbia, Missouri, USA - STR.MO.3A.D28.F metagenome",1,,,,,pending
+PRJNA1340814,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E14_A_4_drought metagenome",1,,,,,pending
+PRJNA1340815,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D15_A_3_drought metagenome",1,,,,,pending
+PRJNA1340816,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I11_A_3_control metagenome",1,,,,,pending
+PRJNA1340817,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - A15_A_4_drought metagenome",1,,,,,pending
+PRJNA1340818,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E11_A_4_control metagenome",1,,,,,pending
+PRJNA1340819,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E14_B_4_drought metagenome",1,,,,,pending
+PRJNA1340820,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J12_A_4_control metagenome",1,,,,,pending
+PRJNA1340821,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - A25_A_5_drought metagenome",1,,,,,pending
+PRJNA1340896,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L1_TR_GHRAS_03 metagenome",1,,,,,pending
+PRJNA1340900,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L2_T2_FRAS_03 metagenome",1,,,,,pending
+PRJNA1340902,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L4_TR_GHRAS_02 metagenome",1,,,,,pending
+PRJNA1340903,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L5_TR_GHRAS_01 metagenome",1,,,,,pending
+PRJNA1340904,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - H12_B_3_drought metagenome",1,,,,,pending
+PRJNA1340906,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L4_T2_FRAS_03 metagenome",1,,,,,pending
+PRJNA1340907,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D2_A_0_control metagenome",1,,,,,pending
+PRJNA1340908,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C11_A_4_control metagenome",1,,,,,pending
+PRJNA1340909,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - H21_B_7_control metagenome",1,,,,,pending
+PRJNA1340970,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L2_T2_FRAS_01 metagenome",1,,,,,pending
+PRJNA1340971,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L3_T2_FRAS_02 metagenome",1,,,,,pending
+PRJNA1340973,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L2_T2_FRAS_02 metagenome",1,,,,,pending
+PRJNA1340988,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L3_TR_GHRAS_03 metagenome",1,,,,,pending
+PRJNA1340989,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L3_T2_FRAS_03 metagenome",1,,,,,pending
+PRJNA1340991,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L5_T2_FRAS_01 metagenome",1,,,,,pending
+PRJNA1340992,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L1_TR_GHRAS_01 metagenome",1,,,,,pending
+PRJNA1340993,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J2_A_2_control metagenome",1,,,,,pending
+PRJNA1340996,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C24_B_7_control metagenome",1,,,,,pending
+PRJNA1340997,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C13_A_4_drought metagenome",1,,,,,pending
+PRJNA1340999,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C1_A_2_drought metagenome",1,,,,,pending
+PRJNA1341000,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J25_B_7_control metagenome",1,,,,,pending
+PRJNA1341054,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I2_A_0_drought metagenome",1,,,,,pending
+PRJNA1341075,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L1_TR_GHRAS_02 metagenome",1,,,,,pending
+PRJNA1341076,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L5_TR_GHRAS_03 metagenome",1,,,,,pending
+PRJNA1341079,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L2_TR_GHRAS_02 metagenome",1,,,,,pending
+PRJNA1341080,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I13_A_3_drought metagenome",1,,,,,pending
+PRJNA1341081,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L3_TR_GHRAS_02 metagenome",1,,,,,pending
+PRJNA1341082,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - A4_B_2_control metagenome",1,,,,,pending
+PRJNA1341083,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G24_B_5_control metagenome",1,,,,,pending
+PRJNA1341084,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E25_B_7_drought metagenome",1,,,,,pending
+PRJNA1341136,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_8v unlabeled metagenome",1,,,,,pending
+PRJNA1341138,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_1c N15 metagenome",1,,,,,pending
+PRJNA1341141,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW root_6e N15 metagenome",1,,,,,pending
+PRJNA1341156,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L2_TR_GHRAS_03 metagenome",1,,,,,pending
+PRJNA1341159,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F4_B_2_drought metagenome",1,,,,,pending
+PRJNA1341160,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G11_A_3_drought metagenome",1,,,,,pending
+PRJNA1341161,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D14_B_3_control metagenome",1,,,,,pending
+PRJNA1341162,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L4_T2_FRAS_02 metagenome",1,,,,,pending
+PRJNA1341225,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW root_4e N15 metagenome",1,,,,,pending
+PRJNA1341227,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW root_8y unlabeled metagenome",1,,,,,pending
+PRJNA1341228,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_1d N15 metagenome",1,,,,,pending
+PRJNA1341242,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L1_T2_FRAS_03 metagenome",1,,,,,pending
+PRJNA1341243,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - WT_T2_FRAS_02 metagenome",1,,,,,pending
+PRJNA1341245,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C13_B_4_drought metagenome",1,,,,,pending
+PRJNA1341246,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G5_A_2_control metagenome",1,,,,,pending
+PRJNA1341247,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - H12_A_3_drought metagenome",1,,,,,pending
+PRJNA1341248,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - H24_A_5_drought metagenome",1,,,,,pending
+PRJNA1341250,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I12_B_3_control metagenome",1,,,,,pending
+PRJNA1341285,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW root_8x unlabeled metagenome",1,,,,,pending
+PRJNA1341326,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - WT_TR_GHRAS_03 metagenome",1,,,,,pending
+PRJNA1341327,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L2_TR_GHRAS_01 metagenome",1,,,,,pending
+PRJNA1341333,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I12_A_3_control metagenome",1,,,,,pending
+PRJNA1341334,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F22_A_5_drought metagenome",1,,,,,pending
+PRJNA1341400,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_4c N15 metagenome",1,,,,,pending
+PRJNA1341402,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_5c N15 metagenome",1,,,,,pending
+PRJNA1341416,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C1_B_2_drought metagenome",1,,,,,pending
+PRJNA1341417,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L4_TR_GHRAS_01 metagenome",1,,,,,pending
+PRJNA1341420,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F21_B_7_control metagenome",1,,,,,pending
+PRJNA1341422,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - WT_T2_FRAS_03 metagenome",1,,,,,pending
+PRJNA1341423,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L4_T2_FRAS_01 metagenome",1,,,,,pending
+PRJNA1341457,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_7w unlabeled metagenome",1,,,,,pending
+PRJNA1341504,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I22_B_5_control metagenome",1,,,,,pending
+PRJNA1341505,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I5_A_0_control metagenome",1,,,,,pending
+PRJNA1341506,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F11_A_3_drought metagenome",1,,,,,pending
+PRJNA1341600,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR root_1e N15 metagenome",1,,,,,pending
+PRJNA1341601,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_2d N15 metagenome",1,,,,,pending
+PRJNA1341613,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F4_A_2_drought metagenome",1,,,,,pending
+PRJNA1341614,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G3_A_0_drought metagenome",1,,,,,pending
+PRJNA1341615,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - B5_A_2_drought metagenome",1,,,,,pending
+PRJNA1341616,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I4_B_2_drought metagenome",1,,,,,pending
+PRJNA1341617,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - H24_B_5_drought metagenome",1,,,,,pending
+PRJNA1341659,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_6c N15 metagenome",1,,,,,pending
+PRJNA1341679,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G13_A_4_drought metagenome",1,,,,,pending
+PRJNA1341755,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_8w unlabeled metagenome",1,,,,,pending
+PRJNA1341756,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR root_7x unlabeled metagenome",1,,,,,pending
+PRJNA1341757,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR root_2e N15 metagenome",1,,,,,pending
+PRJNA1341766,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G13_B_4_drought metagenome",1,,,,,pending
+PRJNA1341767,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - WT_TR_GHRAS_01 metagenome",1,,,,,pending
+PRJNA1341768,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I4_A_2_drought metagenome",1,,,,,pending
+PRJNA1341769,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D14_A_3_control metagenome",1,,,,,pending
+PRJNA1341771,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - B1_A_0_drought metagenome",1,,,,,pending
+PRJNA1341774,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - A25_B_5_drought metagenome",1,,,,,pending
+PRJNA1341837,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR root_2f N15 metagenome",1,,,,,pending
+PRJNA1341840,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_3d N15 metagenome",1,,,,,pending
+PRJNA1341848,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - WT_TR_GHRAS_02 metagenome",1,,,,,pending
+PRJNA1341925,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E11_B_4_control metagenome",1,,,,,pending
+PRJNA1342001,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR root_3e N15 metagenome",1,,,,,pending
+PRJNA1342002,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_7v unlabeled metagenome",1,,,,,pending
+PRJNA1342013,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J4_A_0_control metagenome",1,,,,,pending
+PRJNA1342014,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D25_A_7_control metagenome",1,,,,,pending
+PRJNA1342090,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L3_T2_FRAS_01 metagenome",1,,,,,pending
+PRJNA1342092,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D25_B_7_control metagenome",1,,,,,pending
+PRJNA1342164,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW root_5e N15 metagenome",1,,,,,pending
+PRJNA1342175,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C11_B_4_control metagenome",1,,,,,pending
+PRJNA1342176,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E22_A_7_drought metagenome",1,,,,,pending
+PRJNA1342396,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_3c N15 metagenome",1,,,,,pending
+PRJNA1342787,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR rhizoplane_2c N15 metagenome",1,,,,,pending
+PRJNA1342926,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G12_A_3_control metagenome",1,,,,,pending
+PRJNA1342927,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F12_B_4_control metagenome",1,,,,,pending
+PRJNA1342928,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I22_A_5_control metagenome",1,,,,,pending
+PRJNA1343007,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L3_TR_GHRAS_01 metagenome",1,,,,,pending
+PRJNA1343008,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I14_B_4_control metagenome",1,,,,,pending
+PRJNA1343084,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D15_B_3_drought metagenome",1,,,,,pending
+PRJNA1343087,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - H4_A_2_drought metagenome",1,,,,,pending
+PRJNA1343088,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - E22_B_7_drought metagenome",1,,,,,pending
+PRJNA1343162,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J2_B_2_control metagenome",1,,,,,pending
+PRJNA1343164,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C22_A_7_drought metagenome",1,,,,,pending
+PRJNA1343240,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L1_T2_FRAS_01 metagenome",1,,,,,pending
+PRJNA1343241,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - D2_B_0_control metagenome",1,,,,,pending
+PRJNA1343296,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - WT_T2_FRAS_01 metagenome",1,,,,,pending
+PRJNA1343298,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L4_TR_GHRAS_03 metagenome",1,,,,,pending
+PRJNA1343300,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - B1_B_0_drought metagenome",1,,,,,pending
+PRJNA1343301,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J4_B_0_control metagenome",1,,,,,pending
+PRJNA1343302,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F3_B_0_drought metagenome",1,,,,,pending
+PRJNA1343303,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G5_B_2_control metagenome",1,,,,,pending
+PRJNA1343304,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F11_B_3_drought metagenome",1,,,,,pending
+PRJNA1343305,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G11_B_3_drought metagenome",1,,,,,pending
+PRJNA1343306,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - A15_B_4_drought metagenome",1,,,,,pending
+PRJNA1343307,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G24_A_5_control metagenome",1,,,,,pending
+PRJNA1343363,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_5d N15 metagenome",1,,,,,pending
+PRJNA1343366,"Root microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - CIR root_1f N15 metagenome",1,,,,,pending
+PRJNA1343367,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_4d N15 metagenome",1,,,,,pending
+PRJNA1343457,"Rhizoplane soil microbial communities from switchgrass plant in W.K. Kellogg Biological Station, Michigan, USA - KLW rhizoplane_6d N15 metagenome",1,,,,,pending
+PRJNA1343479,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F22_B_5_drought metagenome",1,,,,,pending
+PRJNA1343480,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I13_B_3_drought metagenome",1,,,,,pending
+PRJNA1343481,"Sugarcane rhizosphere microbial communities from a greenhouse in University of Florida, Reddick, FL, USA - L5_TR_GHRAS_02 metagenome",1,,,,,pending
+PRJNA1343522,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G3_B_0_drought metagenome",1,,,,,pending
+PRJNA1343524,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - C22_B_7_drought metagenome",1,,,,,pending
+PRJNA1343525,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I14_A_4_control metagenome",1,,,,,pending
+PRJNA1343526,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F2_B_2_control metagenome",1,,,,,pending
+PRJNA1343572,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I2_B_0_drought metagenome",1,,,,,pending
+PRJNA1343573,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I5_B_0_control metagenome",1,,,,,pending
+PRJNA1343574,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F14_A_4_drought metagenome",1,,,,,pending
+PRJNA1343576,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - B5_B_2_drought metagenome",1,,,,,pending
+PRJNA1343626,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L5_T2_FRAS_02 metagenome",1,,,,,pending
+PRJNA1343627,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L5_T2_FRAS_03 metagenome",1,,,,,pending
+PRJNA1343629,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G12_B_3_control metagenome",1,,,,,pending
+PRJNA1343630,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J5_A_0_drought metagenome",1,,,,,pending
+PRJNA1343631,"Sugarcane rhizosphere microbial communities from experimental field in University of Florida, Reddick, FL, USA - L1_T2_FRAS_02 metagenome",1,,,,,pending
+PRJNA1343632,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F3_A_0_drought metagenome",1,,,,,pending
+PRJNA1343635,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F14_B_4_drought metagenome",1,,,,,pending
+PRJNA1343681,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F2_A_2_control metagenome",1,,,,,pending
+PRJNA1343682,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - J5_B_0_drought metagenome",1,,,,,pending
+PRJNA1343683,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - G2_A_2_control metagenome",1,,,,,pending
+PRJNA1343684,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - F12_A_4_control metagenome",1,,,,,pending
+PRJNA1343685,"Panicgrass rhizosphere microbial communities from growth chamber in LBNL, Berkeley, California, USA - I11_B_3_control metagenome",1,,,,,pending
+PRJNA1343801,"Switchgrass rhizosphere microbial communities from common garden in Temple, Texas, USA - STR.TX.3D.D28.F metagenome",1,,,,,pending
+PRJNA1343924,"Switchgrass rhizosphere microbial communities from common garden in Aurora, Illinois, USA - STR.IL.3E.D28.F metagenome",1,,,,,pending
+PRJNA1347217,Studying on the development of rhizosphere microbiome between diseased and healthy tomato plants,1,,,,,pending
+PRJNA1348955,,29,,,,,pending
+PRJNA1367536,,60,,,,,pending
+PRJNA1370252,Original data of metagenome in the rhizosphere soil of Tamarix,11,,,,,pending
+PRJNA1370302,"Multi-omic profiling of soybean rhizosphere interactions under salt stress: rhizosphere shotgun metagenomes, Thalassospira xiamenensis whole-genome sequencing, and Glycine max root RNA-seq with and without inoculation",22,,,,,pending
+PRJNA1370513,Bacillus altitudinis phage isolated from maize rhizosphere,1,,,,,pending
+PRJNA1373453,rhizosphaera Camelliae sinensis var. assamicae Raw sequence reads,30,,,,,pending
+PRJNA1379154,Rhizosphere soil metagenome,6,,,,,pending
+PRJNA1380041,Compartmental and functional responses of the citrus microbiome and resistome to the systemic delivery of oxytetracycline by trunk injection,22,,,,,pending
+PRJNA1394199,Metagenomic analysis of the watermelon rhizosphere microbiome under healthy and Fusarium wilt disease conditions,10,,,,,pending
+PRJNA1394214,,16,,,,,pending
+PRJNA1395320,,9,,,,,pending
+PRJNA1401274,,18,,,,,pending
+PRJNA1402372,,45,,,,,pending
+PRJNA1402512,,12,,,,,pending
+PRJNA1403447,,22,,,,,pending
+PRJNA1403503,,17,,,,,pending
+PRJNA1403647,Metabolomic and Microbiome Responses to Drought Stress in Drought-Tolerant and Drought-Sensitive Bermudagrass,12,,,,,pending
+PRJNA1403739,,17,,,,,pending
+PRJNA1404893,,6,,,,,pending
+PRJNA1407950,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-TAS-02.24 small pot metagenome",1,,,,,pending
+PRJNA1407953,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-MOC-01.15 small pot metagenome",1,,,,,pending
+PRJNA1407955,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-CRI-03.30 small pot metagenome",1,,,,,pending
+PRJNA1408037,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-VIR-08.9 small pot metagenome",1,,,,,pending
+PRJNA1408041,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-CRI-01.29 small pot metagenome",1,,,,,pending
+PRJNA1408126,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - S-VIR.50 small pot metagenome",1,,,,,pending
+PRJNA1408344,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-CRI-06.26 small pot metagenome",1,,,,,pending
+PRJNA1408348,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-YON-01.41 small pot metagenome",1,,,,,pending
+PRJNA1408433,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-MOC-06.11 small pot metagenome",1,,,,,pending
+PRJNA1408523,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-MOC-02.10 small pot metagenome",1,,,,,pending
+PRJNA1408602,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - S-CRI.53 small pot metagenome",1,,,,,pending
+PRJNA1408604,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - S-YON.54 small pot metagenome",1,,,,,pending
+PRJNA1408605,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-TAS-05.23 small pot metagenome",1,,,,,pending
+PRJNA1408782,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-MOC-03.17 small pot metagenome",1,,,,,pending
+PRJNA1408954,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-MOC-07.14 small pot metagenome",1,,,,,pending
+PRJNA1408956,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-YON-06.34 small pot metagenome",1,,,,,pending
+PRJNA1409288,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-TAS-02.21 small pot metagenome",1,,,,,pending
+PRJNA1409454,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-CRI-04.33 small pot metagenome",1,,,,,pending
+PRJNA1409593,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-YON-07.36 small pot metagenome",1,,,,,pending
+PRJNA1409756,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-VIR-04.1 small pot metagenome",1,,,,,pending
+PRJNA1410125,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-VIR-04.8 small pot metagenome",1,,,,,pending
+PRJNA1410127,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-VIR-01.7 small pot metagenome",1,,,,,pending
+PRJNA1410199,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - S-TAS.52 small pot metagenome",1,,,,,pending
+PRJNA1410217,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-CRI-03.31 small pot metagenome",1,,,,,pending
+PRJNA1410334,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-CRI-07.27 small pot metagenome",1,,,,,pending
+PRJNA1410382,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-VIR-07.2 small pot metagenome",1,,,,,pending
+PRJNA1410507,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-VIR-01.3 small pot metagenome",1,,,,,pending
+PRJNA1410920,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-VIR-05.5 small pot metagenome",1,,,,,pending
+PRJNA1411087,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-M0C-04.13 small pot metagenome",1,,,,,pending
+PRJNA1411089,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-CRI-03.25 small pot metagenome",1,,,,,pending
+PRJNA1411377,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-CRI-06.28 small pot metagenome",1,,,,,pending
+PRJNA1411379,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-YON-02.35 small pot metagenome",1,,,,,pending
+PRJNA1411530,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-MOC-06.16 small pot metagenome",1,,,,,pending
+PRJNA1411531,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-YON-07.39 small pot metagenome",1,,,,,pending
+PRJNA1411730,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-YON-01.37 small pot metagenome",1,,,,,pending
+PRJNA1411731,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-1-YON-06.40 small pot metagenome",1,,,,,pending
+PRJNA1411845,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - S-MOC.51 small pot metagenome",1,,,,,pending
+PRJNA1411925,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-YON-02.38 small pot metagenome",1,,,,,pending
+PRJNA1411926,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-2-TAS-04.20 small pot metagenome",1,,,,,pending
+PRJNA1412031,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-TAS-01.19 small pot metagenome",1,,,,,pending
+PRJNA1412136,"Rhizosphere microbial communities from alfalfa plant in greenhouse of the University of Arizona, Tucson, AZ, USA - L-3-TAS-03.18 small pot metagenome",1,,,,,pending
+PRJNA1414627,,24,,,,,pending
+PRJNA1415698,,10,,,,,pending
+PRJNA1415985,Shoreline sediment metagenomic data of three plant zones,9,,,,,pending
+PRJNA1417119,soil Raw sequence reads,42,,,,,pending
+PRJNA1417946,rhizosphere soil metagenome from Medicago sativa Raw sequence reads,8,,,,,pending
+PRJNA1417967,,6,,,,,pending
+PRJNA1418015,Rice rhizosphere metagenome,9,,,,,pending
+PRJNA1418489,,9,,,,,pending
+PRJNA1427379,,36,,,,,pending
+PRJNA1427727,Shotgun metagenomic sequencing of rhizosphere microbiomes associated with cochineal-resistant and susceptible cactus species.,60,,,,,pending
+PRJNA1427762,,48,,,,,pending
+PRJNA1429035,,21,,,,,pending
+PRJNA1437046,,1,,,,,pending
+PRJNA1437504,,12,,,,,pending
+PRJNA1437534,,3,,,,,pending
+PRJNA1437836,Metagenomic sequencing of wheat and maize microbiome,6,,,,,pending
+PRJNA1438069,,29,,,,,pending
+PRJNA1438112,,7,,,,,pending
+PRJNA1439554,,12,,,,,pending
+PRJNA1440967,Different cropping regimes on rhizosphere metagenomics,16,,,,,pending
+PRJNA1447687,,18,,,,,pending
+PRJNA1449985,,27,,,,,pending
+PRJNA1452514,,9,,,,,pending
+PRJNA1452530,,11,,,,,pending
+PRJNA1455092,,12,,,,,pending
+PRJNA1455701,Coffea canephora shotgun metagenomics,17,,,,,pending
+PRJNA167002,Beta vulgaris subsp. vulgaris Targeted Locus (Loci),1,,,,,pending
+PRJNA233430,Soil Metagenome,6,,,,,pending
+PRJNA278090,Agricultural soil and sugarcane root microbial community Raw sequence reads,14,,,,,pending
+PRJNA286839,Sn-Rhizo-Meta Raw sequence reads,1,,,,,pending
+PRJNA291548,banana endophytic actinobacteria Raw sequence reads,1,,,,,pending
+PRJNA295001,Pomegranate Rhizosphere soil Genome sequencing,12,,,,,pending
+PRJNA295627,Oryza sativa Raw sequence reads,3,,,,,pending
+PRJNA322597,Deciphering correlation between roots associated microbial communities and repressive potential of essential oil from two different genotypes of Chrysopogon zizazinoides (L.),3,,,,,pending
+PRJNA323989,Hippophae rhamnoides Raw sequence reads,20,,,,,pending
+PRJNA324090,rhizosphere metagenome Raw sequence reads,6,,,,,pending
+PRJNA329915,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Col_mTSA metagenome",1,,,,,pending
+PRJNA329916,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Col_mMS metagenome",1,,,,,pending
+PRJNA329917,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Col_mTSA metagenome",1,,,,,pending
+PRJNA329918,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Col_mLB metagenome",1,,,,,pending
+PRJNA329919,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Col_mMS metagenome",1,,,,,pending
+PRJNA329920,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Col_mCL metagenome",1,,,,,pending
+PRJNA329921,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Cvi_mTSA metagenome",1,,,,,pending
+PRJNA329922,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Cvi_mMF metagenome",2,,,,,pending
+PRJNA329923,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Cvi_mTSA metagenome",1,,,,,pending
+PRJNA329924,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Cvi_mLB metagenome",1,,,,,pending
+PRJNA329925,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Cvi_mMS metagenome",1,,,,,pending
+PRJNA330030,"Rhizosphere microbial communities from Harvard Forest, USA - C-1 metagenome",1,,,,,pending
+PRJNA330031,"Rhizosphere microbial communities from Harvard Forest, USA - C-2 metagenome",1,,,,,pending
+PRJNA330032,"Rhizosphere microbial communities from Harvard Forest, USA - C-3 metagenome",1,,,,,pending
+PRJNA330033,"Rhizosphere microbial communities from Harvard Forest, USA - C-4 metagenome",1,,,,,pending
+PRJNA330034,"Rhizosphere microbial communities from Harvard Forest, USA - C-5 metagenome",1,,,,,pending
+PRJNA330362,"Switchgrass rhizosphere bulk soil microbial communities from Kellogg Biological Station, Michigan, USA, with spike-in - S5 metagenome",1,,,,,pending
+PRJNA336798,Arabidopsis rhizosphere microbial communities from the University of North Carolina - sample Wild type Col-0 metagenome,6,,,,,pending
+PRJNA336799,Arabidopsis rhizosphere microbial communities from the University of North Carolina - sample Mutant cpr5 metagenome,2,,,,,pending
+PRJNA338194,rhizosphere metagenome,18,,,,,pending
+PRJNA340596,"Agave microbial communities from Guanajuato, Mexico - At.Am.rz",1,,,,,pending
+PRJNA362455,citrus rhizosphere Metagenome,3,,,,,pending
+PRJNA364919,"Plant-associated fungal endosymbiont bacterial communities from Michigan, USA - Mortierella elongata AD073 Glomeribacter phylotype 2 & Mollicutes-related endobacteria (MRE) phylotype 1 Resequencing metagenome",1,,,,,pending
+PRJNA364923,"Terrestrial fungal endosymbiont bacterial communities from North Carolina, USA - Mortierella minutissima REB-025A Glomeribacter phylotype 4 Resequencing metagenome",1,,,,,pending
+PRJNA365026,"Plant-associated fungal endosymbiont bacterial communities from North Carolina, USA - Mortierella humilis PMI_1414 - Glomeribacter phylotype 2 Metagenome metagenome",8,,,,,pending
+PRJNA365030,Terrestrial fungal endosymbiont bacterial communities from New Zealand - Mortierella humilis AD003 Glomeribacter phylotype 2 Resequencing metagenome,1,,,,,pending
+PRJNA365466,"Root nodule microbial communities of legume samples collected from USA, Mexico and Botswana - Cow pea red BW metagenome",1,,,,,pending
+PRJNA365467,"Root nodule microbial communities of legume samples collected from USA, Mexico and Botswana - Cow pea white BW metagenome",1,,,,,pending
+PRJNA365468,"Root nodule microbial communities of legume samples collected from USA, Mexico and Botswana - M. trunc garden sep15 metagenome",1,,,,,pending
+PRJNA365469,"Root nodule microbial communities of legume samples collected from USA, Mexico and Botswana - Siratro red BW metagenome",1,,,,,pending
+PRJNA365470,"Root nodule microbial communities of legume samples collected from USA, Mexico and Botswana - Siratro white BW metagenome",1,,,,,pending
+PRJNA365649,"Rhizosphere microbial communities from Harvard Forest, USA - 3Rhizosphere_NRneg metaG metagenome",1,,,,,pending
+PRJNA365651,"Rhizosphere microbial communities from Harvard Forest, USA - 5Rhizosphere_NRneg metaG metagenome",1,,,,,pending
+PRJNA365657,"Rhizosphere microbial communities from Harvard Forest, USA - 4Rhizosphere_NRpos metaG metagenome",1,,,,,pending
+PRJNA365876,"Rhizosphere microbial communities from Harvard Forest, USA - 2Rhizosphere_unsorted metaG metagenome",1,,,,,pending
+PRJNA365879,"Rhizosphere microbial communities from Harvard Forest, USA - 6Rhizosphere_unsorted metaG metagenome",1,,,,,pending
+PRJNA366073,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Col_mLB metagenome",1,,,,,pending
+PRJNA366074,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Col_mMF metagenome",1,,,,,pending
+PRJNA366075,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Cvi_mLB metagenome",1,,,,,pending
+PRJNA366076,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape MF_Cvi_mMS metagenome",1,,,,,pending
+PRJNA366077,"Arabidopsis root microbial communities from the University of North Carolina, USA - plate scrape CL_Cvi_mCL metagenome",1,,,,,pending
+PRJNA366977,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Rhizosphere soil Co-N PM metagenome",1,,,,,pending
+PRJNA366978,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Endophyte Co-N S PM metagenome",1,,,,,pending
+PRJNA366979,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant Co AM metagenome",1,,,,,pending
+PRJNA366980,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M1 AM metagenome",1,,,,,pending
+PRJNA366981,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M2 AM metagenome",1,,,,,pending
+PRJNA366982,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M3 AM metagenome",1,,,,,pending
+PRJNA366983,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant Co PM metagenome",1,,,,,pending
+PRJNA366984,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M1 PM metagenome",1,,,,,pending
+PRJNA366985,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M2 PM metagenome",1,,,,,pending
+PRJNA366986,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M3 PM metagenome",1,,,,,pending
+PRJNA366987,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant Co S AM metagenome",1,,,,,pending
+PRJNA366988,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M1 S AM metagenome",1,,,,,pending
+PRJNA366989,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M2 S AM metagenome",1,,,,,pending
+PRJNA366990,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M3 S AM metagenome",1,,,,,pending
+PRJNA366991,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant Co S PM metagenome",1,,,,,pending
+PRJNA366992,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M1 S PM metagenome",1,,,,,pending
+PRJNA366993,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M2 S PM metagenome",1,,,,,pending
+PRJNA366994,"Arabidopsis thaliana rhizosphere microbial communities from the Joint Genome Institute, USA, that affect carbon cycling - Inoculated plant M3 S PM metagenome",1,,,,,pending
+PRJNA367465,"Terrestrial fungal endosymbiont bacterial communities from Utah, USA - Mortierella elongata AD022 Glomeribacter phylotype 2 Resequencing metagenome",1,,,,,pending
+PRJNA367466,"Plant-associated fungal endosymbiont bacterial communities from Michigan, USA - Mortierella minutissima AD065 - Glomeribacter phylotype 2 & Mollicutes-related endobacteria (MRE) phylotype 1 Resequencing metagenome",2,,,,,pending
+PRJNA369422,Metagenomics of the Dioon Merolae coralloid root endosymbionts,8,,,,,pending
+PRJNA370772,Podila minutissima AD051 Glomeribacter phylotype 3 Fungal Standard Draft,10,,,,,pending
+PRJNA375140,Root nodule microbial communities of legume samples collected from Mexico - Siratro Mexico nodule mix metagenome,1,,,,,pending
+PRJNA375141,Root nodule microbial communities of legume samples collected from Mexico - Turtle bean Mexico pink nodule metagenome,1,,,,,pending
+PRJNA375142,Root nodule microbial communities of legume samples collected from Mexico - Turtle bean Mexico white nodule metagenome,1,,,,,pending
+PRJNA375486,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Col_mCL_r2 metagenome",1,,,,,pending
+PRJNA375487,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Cvi_mMF_r2 metagenome",1,,,,,pending
+PRJNA375488,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Col_mMF_r2 metagenome",1,,,,,pending
+PRJNA375489,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Col_mMS_r2 metagenome",1,,,,,pending
+PRJNA375490,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Col_mMS_r2 metagenome",1,,,,,pending
+PRJNA375491,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Col_mCL_r2 metagenome",1,,,,,pending
+PRJNA375492,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Cvi_mTSA_r2 metagenome",1,,,,,pending
+PRJNA375493,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Cvi_mCL_r2 metagenome",1,,,,,pending
+PRJNA375494,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Col_mLB_r2 metagenome",1,,,,,pending
+PRJNA375495,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Cvi_mMS_r2 metagenome",1,,,,,pending
+PRJNA375496,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Col_mLB_r2 metagenome",1,,,,,pending
+PRJNA375497,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Col_mTSA_r2 metagenome",1,,,,,pending
+PRJNA375498,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Cvi_mLB_r2 metagenome",1,,,,,pending
+PRJNA375499,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Col_mTSA_r2 metagenome",1,,,,,pending
+PRJNA375500,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Cvi_mLB_r2 metagenome",1,,,,,pending
+PRJNA375501,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Cvi_mCL_r2 metagenome",1,,,,,pending
+PRJNA375502,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Cvi_mMS_r2 metagenome",1,,,,,pending
+PRJNA375503,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Cvi_mTSA_r2 metagenome",1,,,,,pending
+PRJNA375504,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape CL_Col_mMF_r2 metagenome",1,,,,,pending
+PRJNA375505,"Arabidopsis rhizosphere microbial communities from North Carolina, USA - plate scrape MF_Cvi_mMF_r2 metagenome",2,,,,,pending
+PRJNA375569,"Switchgrass rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA - KBS Switchgrass S1-2 metagenome",1,,,,,pending
+PRJNA375575,"Miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA - KBS Miscanthus M1-2 metagenome",1,,,,,pending
+PRJNA375673,"Populus root and rhizosphere microbial communities from Tennessee, USA - Rhizosphere MetaG P. TD hybrid SRZTD4 metagenome",1,,,,,pending
+PRJNA375676,"Root nodule microbial communities of legume samples collected from California, USA - Medicago truncatula BG metagenome",1,,,,,pending
+PRJNA376229,Ecological wastewater treatment,4,,,,,pending
+PRJNA393496,Effect of Biochar on soil microbial,12,,,,,pending
+PRJNA393632,Effect of gypsum amendment on dissimilatory sulfate reducing microorganisms in rice field soil,8,,,,,pending
+PRJNA405459,"Miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA - KBS M3-4 metaG metagenome",1,,,,,pending
+PRJNA406043,"Terrestrial soil microbial communities with excess Nitrogen fertilizer from Kellogg Biological Station, Michigan, USA - KB3-175-2 metagenome",1,,,,,pending
+PRJNA406148,Arabidopsis rhizosphere microbial communities from North Carolina - M.Oy.4.old.040610 metagenome,1,,,,,pending
+PRJNA406170,Arabidopsis rhizosphere microbial communities from North Carolina - M.Oy.6.yng.070610 metagenome,1,,,,,pending
+PRJNA406785,"Endophyte microbial communities from Sorghum bicolor roots, Mead, Nebraska, USA - 072115-40_1 MetaG metagenome",1,,,,,pending
+PRJNA419965,Avena rhizosphere community Metagenome,12,,,,,pending
+PRJNA419970,Metagenomic analysis exploring soil microbial communities associated with Antarctic vascular plants,6,,,,,pending
+PRJNA421252,Metagenomic analysis of the rhizosphere of the seagrass Zostera marina,2,,,,,pending
+PRJNA422917,Metagenome sequencing spike-ins (''sequins''),12,,,,,pending
+PRJNA441056,"Root nodule microbial communities from cowpea collected in UCLA plant growth center, Los Angeles, California, USA - CNSS1 metagenome",1,,,,,pending
+PRJNA441057,"Root nodule microbial communities from cowpea collected in UCLA plant growth center, Los Angeles, California, USA - CNSS2 metagenome",1,,,,,pending
+PRJNA441058,"Root nodule microbial communities from cowpea collected in UCLA plant growth center, Los Angeles, California, USA - CNSS3 metagenome",1,,,,,pending
+PRJNA441059,"Root nodule microbial communities from cowpea collected in UCLA plant growth center, Los Angeles, California, USA - CNSS4 metagenome",1,,,,,pending
+PRJNA441428,"Rhizosphere microbial communities from Vellozia epidendroides in rupestrian grasslands, the National Park of Serra do Cipo, Brazil - RX_R1 metagenome",1,,,,,pending
+PRJNA441429,"Rhizosphere microbial communities from Vellozia epidendroides in rupestrian grasslands, the National Park of Serra do Cipo, Brazil - RX_R2 metagenome",1,,,,,pending
+PRJNA441430,"Rhizosphere microbial communities from Vellozia epidendroides in rupestrian grasslands, the National Park of Serra do Cipo, Brazil - RX_R3 metagenome",1,,,,,pending
+PRJNA441431,"Root-associated microbial communities from Barbacenia macrantha in rupestrian grasslands, the National Park of Serra do Cipo, Brazil - RX_R7 metagenome",1,,,,,pending
+PRJNA441432,"Root-associated microbial communities from Barbacenia macrantha in rupestrian grasslands, the National Park of Serra do Cipo, Brazil - RX_R8 metagenome",1,,,,,pending
+PRJNA441433,"Root-associated microbial communities from Barbacenia macrantha in rupestrian grasslands, the National Park of Serra do Cipo, Brazil - RX_R9 metagenome",1,,,,,pending
+PRJNA444381,"Miscanthus rhizosphere microbial communities from Kellogg Biological Station, Michigan, USA - M2-5 metaG metagenome",1,,,,,pending
+PRJNA450295,Metagenomic sequencing of foxtail millet root-associated microbiome,146,,,,,pending
+PRJNA467690,"Spruce roots microbial communities from Bohemian Forest, Czech Republic – CRU3 metagenome",1,,,,,pending
+PRJNA467691,"Spruce roots microbial communities from Bohemian Forest, Czech Republic – CRU4 metagenome",1,,,,,pending
+PRJNA467789,"Root nodule microbial communities from Medicago polymorpha collected in Santa Monica, California, United States - pink nodules metagenome",1,,,,,pending
+PRJNA467790,"Root nodule microbial communities from Medicago polymorpha collected in Santa Monica, California, United States - brown nodules metagenome",1,,,,,pending
+PRJNA468123,"Spruce roots microbial communities from Bohemian Forest, Czech Republic - CRU2 metagenome",1,,,,,pending
+PRJNA468124,"Spruce roots microbial communities from Bohemian Forest, Czech Republic - CRU5 metagenome",1,,,,,pending
+PRJNA473437,,24,,,,,pending
+PRJNA482626,Metagenomes for Casuarina glauca Root Nodule Endophytes found in Tunisia,9,,,,,pending
+PRJNA484230,soil metagenome Metagenome,92,,,,,pending
+PRJNA502406,"Spruce roots microbial communities from Bohemian Forest, Czech Republic – CRU1 metagenome",1,,,,,pending
+PRJNA502708,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-8-24 metaG metagenome",1,,,,,pending
+PRJNA502711,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-14-24 metaG metagenome",1,,,,,pending
+PRJNA502725,"Rhizosphere microbial communities from Maridalen valley, Oslo, Norway - NZE1 metagenome",1,,,,,pending
+PRJNA502726,"Rhizosphere microbial communities from Maridalen valley, Oslo, Norway - NZE2 metagenome",1,,,,,pending
+PRJNA502728,"Rhizosphere microbial communities from Maridalen valley, Oslo, Norway - NZE5 metagenome",1,,,,,pending
+PRJNA502729,"Rhizosphere microbial communities from Maridalen valley, Oslo, Norway - NZA6 metagenome",1,,,,,pending
+PRJNA517182,Soil Metagenomes from Mediterranean grasslands of California,12,,,,,pending
+PRJNA518255,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - 322HYB-C-1 metagenome",1,,,,,pending
+PRJNA518256,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - 322HYB-C-3 metagenome",1,,,,,pending
+PRJNA518310,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 9_EM metagenome",1,,,,,pending
+PRJNA518311,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 10_EM metagenome",1,,,,,pending
+PRJNA518312,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 13_EM metagenome",1,,,,,pending
+PRJNA518313,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 14_EM metagenome",1,,,,,pending
+PRJNA518314,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 15_EM metagenome",1,,,,,pending
+PRJNA518315,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 16_EM metagenome",1,,,,,pending
+PRJNA518430,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-5-22 metaG metagenome",1,,,,,pending
+PRJNA518431,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-5-26 metaG metagenome",1,,,,,pending
+PRJNA518432,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-8-27 metaG metagenome",1,,,,,pending
+PRJNA518433,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-14-19 metaG metagenome",1,,,,,pending
+PRJNA518434,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-14-20 metaG metagenome",1,,,,,pending
+PRJNA518435,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-16-21 metaG metagenome",1,,,,,pending
+PRJNA518436,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-16-24 metaG metagenome",1,,,,,pending
+PRJNA518437,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-16-27 metaG metagenome",1,,,,,pending
+PRJNA518438,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-19-19 metaG metagenome",1,,,,,pending
+PRJNA518439,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-19-26 metaG metagenome",1,,,,,pending
+PRJNA518440,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-20-19 metaG metagenome",1,,,,,pending
+PRJNA518441,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-21-26 metaG metagenome",1,,,,,pending
+PRJNA518442,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-CB2-19 metaG metagenome",1,,,,,pending
+PRJNA518443,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-CB2-25 metaG metagenome",1,,,,,pending
+PRJNA518589,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 17_EM metagenome",1,,,,,pending
+PRJNA518590,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 19_EM metagenome",1,,,,,pending
+PRJNA518591,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 23_EM metagenome",1,,,,,pending
+PRJNA523168,,72,,,,,pending
+PRJNA525709,Nacozari microbiomes and metagenomes,1,,,,,pending
+PRJNA539070,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - J5-7_050615r2r3 metagenome",1,,,,,pending
+PRJNA539071,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - S0-2_050615r3r5 metagenome",1,,,,,pending
+PRJNA539072,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - S5-7_050615r2r1 metagenome",1,,,,,pending
+PRJNA539073,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - J0-2_160517rDrC metagenome",1,,,,,pending
+PRJNA539074,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - J5-7_160517rDrA metagenome",1,,,,,pending
+PRJNA539075,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - S0-2_160517rDrB metagenome",1,,,,,pending
+PRJNA539076,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - J_170502JBrBrA metagenome",1,,,,,pending
+PRJNA539077,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - S_170502SCrBrC metagenome",1,,,,,pending
+PRJNA539517,"Root nodule microbial communities collected in Santa Monica, California, United States - Edamame nodules 1 metagenome",1,,,,,pending
+PRJNA539519,"Medicago polymorpha root nodule microbial communities from Los Angeles, California, United States - small nodules metagenome",1,,,,,pending
+PRJNA539520,"Medicago polymorpha root nodule microbial communities from Los Angeles, California, United States - elongated nodules metagenome",1,,,,,pending
+PRJNA539521,"Medicago polymorpha root nodule microbial communities from Los Angeles, California, United States - branched nodules metagenome",1,,,,,pending
+PRJNA539583,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - 322HYB-C-2 metagenome",1,,,,,pending
+PRJNA539584,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - 322HYB-O-1 metagenome",1,,,,,pending
+PRJNA539585,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - 322HYB-O-2 metagenome",1,,,,,pending
+PRJNA539586,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - 322HYB-O-3 metagenome",1,,,,,pending
+PRJNA539587,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - DK15-O-1 metagenome",1,,,,,pending
+PRJNA539588,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - DK15-C-1 metagenome",1,,,,,pending
+PRJNA539589,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - DK15-O-2 metagenome",1,,,,,pending
+PRJNA539590,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - DK15-O-3 metagenome",1,,,,,pending
+PRJNA539591,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - DK15-C-2 metagenome",1,,,,,pending
+PRJNA539592,"Maize rhizosphere microbial communities from greenhouse at UC Davis, California, United States - DK15-C-3 metagenome",1,,,,,pending
+PRJNA539602,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 25_EM metagenome",1,,,,,pending
+PRJNA539665,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-1-23 metaG metagenome",1,,,,,pending
+PRJNA539666,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-1-26 metaG metagenome",1,,,,,pending
+PRJNA539667,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-19-23 metaG metagenome",1,,,,,pending
+PRJNA539668,"Rhizosphere microbial communities from Carex aquatilis grown in University of Washington, Seatle, WA, United States - 4-CB3-27 metaG metagenome",1,,,,,pending
+PRJNA551716,rhizospheric bacteria with dersert shrubs,6,,,,,pending
+PRJNA559062,Metagenomic profiles of microbial comunities associated with sugarcane under organic versus conventional cultivation and prospection of plant growth promoting microorganisms,6,,,,,pending
+PRJNA570127,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - J0-2_050615r2r1 metagenome",2,,,,,pending
+PRJNA570128,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - S5-7_160517rA metagenome",1,,,,,pending
+PRJNA570524,"Spruce roots microbial communities from Maridalen valley, Oslo, Norway - NRE1 metagenome",1,,,,,pending
+PRJNA570525,"Spruce roots microbial communities from Maridalen valley, Oslo, Norway - NRE2 metagenome",1,,,,,pending
+PRJNA570526,"Spruce roots microbial communities from Maridalen valley, Oslo, Norway - NRE4 metagenome",1,,,,,pending
+PRJNA570527,"Spruce roots microbial communities from Maridalen valley, Oslo, Norway - NRE5 metagenome",1,,,,,pending
+PRJNA570528,"Spruce roots microbial communities from Maridalen valley, Oslo, Norway - NRE6 metagenome",1,,,,,pending
+PRJNA571047,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 7_EM metagenome",1,,,,,pending
+PRJNA571048,"Populus trichocarpa ectomycorrhiza microbial communities from riparian zone in the Pacific Northwest, United States - 12_EM metagenome",1,,,,,pending
+PRJNA593573,Leaf and root-associated microbiomes of three south-east Asian green leafy vegetables grown in an urban farm in Singapore (2018),41,,,,,pending
+PRJNA597058,Microbiomes of hybrid and inbred maize,3,,,,,pending
+PRJNA600764,Miyake-jima Japan,1,,,,,pending
+PRJNA607213,Maize rhizosphere metagenome Metagenome,5,,,,,pending
+PRJNA607406,Studies of dynamic variations in rhizosphere microbiome and plant after inoculation of PGP-microbes in soils,6,,,,,pending
+PRJNA608274,Metagenome manure-rhizosphere-soil (AB-treated),47,,,,,pending
+PRJNA612127,mangrove metagenome Raw sequence reads,2,,,,,pending
+PRJNA614621,Bacteria from rape rhizosphere in Gorsk (Poland),3,,,,,pending
+PRJNA621236,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_NoN_11 metagenome",1,,,,,pending
+PRJNA621237,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_NoN_12 metagenome",1,,,,,pending
+PRJNA621238,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_NoN_16 metagenome",1,,,,,pending
+PRJNA621239,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_NoN_2 metagenome",1,,,,,pending
+PRJNA621243,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_NoN_3 metagenome",1,,,,,pending
+PRJNA621245,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_NoN_4 metagenome",1,,,,,pending
+PRJNA621248,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_NoN_11 metagenome",1,,,,,pending
+PRJNA621249,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_NoN_16 metagenome",1,,,,,pending
+PRJNA621251,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_N_1 metagenome",1,,,,,pending
+PRJNA621254,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_N_2 metagenome",1,,,,,pending
+PRJNA621257,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_N_3 metagenome",1,,,,,pending
+PRJNA621259,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_N_4 metagenome",1,,,,,pending
+PRJNA621265,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_N_8 metagenome",1,,,,,pending
+PRJNA621273,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_N_1 metagenome",1,,,,,pending
+PRJNA621274,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_N_2 metagenome",1,,,,,pending
+PRJNA621275,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_N_3 metagenome",1,,,,,pending
+PRJNA621276,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_N_4 metagenome",1,,,,,pending
+PRJNA621277,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_N_11 metagenome",1,,,,,pending
+PRJNA621278,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_N_1 metagenome",1,,,,,pending
+PRJNA621279,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_N_2 metagenome",1,,,,,pending
+PRJNA621280,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_N_3 metagenome",1,,,,,pending
+PRJNA621281,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_N_4 metagenome",1,,,,,pending
+PRJNA621282,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_N_5 metagenome",1,,,,,pending
+PRJNA621283,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_N_1 metagenome",1,,,,,pending
+PRJNA621284,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_N_2 metagenome",1,,,,,pending
+PRJNA621339,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_NoN_11 metagenome",1,,,,,pending
+PRJNA621340,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_NoN_12 metagenome",1,,,,,pending
+PRJNA621341,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_NoN_16 metagenome",1,,,,,pending
+PRJNA621342,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_NoN_17 metagenome",1,,,,,pending
+PRJNA621343,"Populus rhizosphere microbial communities from soil in Oregon, United States - GW9791_Oregon_NoN_19 metagenome",1,,,,,pending
+PRJNA621344,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_NoN_1 metagenome",1,,,,,pending
+PRJNA621345,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_NoN_2 metagenome",1,,,,,pending
+PRJNA621346,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_NoN_3 metagenome",1,,,,,pending
+PRJNA621347,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_NoN_4 metagenome",1,,,,,pending
+PRJNA621348,"Populus rhizosphere microbial communities from soil in West Virginia, United States - GW9791_WV_NoN_16 metagenome",1,,,,,pending
+PRJNA621349,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_NoN_1 metagenome",1,,,,,pending
+PRJNA621350,"Populus rhizosphere microbial communities from soil in Oregon, United States - WV94_Oregon_NoN_4 metagenome",1,,,,,pending
+PRJNA621351,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_N_3 metagenome",1,,,,,pending
+PRJNA621352,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_N_4 metagenome",1,,,,,pending
+PRJNA621353,"Populus rhizosphere microbial communities from soil in West Virginia, United States - WV94_WV_N_11 metagenome",1,,,,,pending
+PRJNA621974,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - J_170502JArCrA metagenome",2,,,,,pending
+PRJNA621975,"Rhizosphere microbial communities from salt marsh grasses in Alabama, United States - S_170502SBrCrA metagenome",2,,,,,pending
+PRJNA622969,Brevibacillus laterosporus strain:K75 Genome sequencing and assembly,1,,,,,pending
+PRJNA633753,Soil Rhizosphere of sugarcane Metagenome,5,,,,,pending
+PRJNA637017,,18,,,,,pending
+PRJNA638690,Metagenomic analysis of squash root-associated microbiome,6,,,,,pending
+PRJNA639384,AMF Raw sequence reads,6,,,,,pending
+PRJNA639407,AMF Raw sequence reads,4,,,,,pending
+PRJNA641523,,1,,,,,pending
+PRJNA643787,Ancestral and modern wheat genotypes Metagenome,29,,,,,pending
+PRJNA645371,Rhizosphere soil,1,,,,,pending
+PRJNA645385,Rhizosphere soil sample 2,1,,,,,pending
+PRJNA646933,Microbiome-mediated phenotype transfer from transgenic plants,6,,,,,pending
+PRJNA647667,A metagenomic survey about rhizosphere and root samples from plantains and bananas,12,,,,,pending
+PRJNA647797,Maize associated microbiome studies,2,,,,,pending
+PRJNA647806,Maize rhizobiome studies,2,,,,,pending
+PRJNA648085,Rhizosphere Metagenome,1,,,,,pending
+PRJNA650132,"Metagenomic Study of Cotton Rhizosphere, Alwar, Rajasthan",2,,,,,pending
+PRJNA655215,Metagenomic analyses of soybean rhizosphere,2,,,,,pending
+PRJNA655627,Community of Microbes in Maize Rhizosphere,3,,,,,pending
+PRJNA659413,Stable Isotope Labeling of Fern Associated Microbiomes with 13C-Chloromethane,1,,,,,pending
+PRJNA660314,RedRoot Metagenome analysis,24,,,,,pending
+PRJNA663614,Rice rhizosphere metagenome Raw sequence reads,48,,,,,pending
+PRJNA665712,soil metagenome Raw sequence reads,5,,,,,pending
+PRJNA673792,,4,,,,,pending
+PRJNA674485,,4,,,,,pending
+PRJNA678469,Community of Microbes in Maize Rhizosphere,1,,,,,pending
+PRJNA678475,Community of Microbes in Maize Rhizosphere,1,,,,,pending
+PRJNA695128,,18,,,,,pending
+PRJNA697389,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0821FE14Z081617_5551 metagenome",1,,,,,pending
+PRJNA697390,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0612WE14Z082817_5619 metagenome",1,,,,,pending
+PRJNA697391,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0216DE14Z080117_5416 metagenome",1,,,,,pending
+PRJNA697392,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0512LE14Z062817_5216 metagenome",1,,,,,pending
+PRJNA697393,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0612DE14Z070717_5290 metagenome",1,,,,,pending
+PRJNA697394,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0612FE14Z062817_5219 metagenome",1,,,,,pending
+PRJNA697395,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0220FE14Z071817_5348 metagenome",1,,,,,pending
+PRJNA697396,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0503WE14Z080117_5431 metagenome",1,,,,,pending
+PRJNA697397,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0113LE14Z062817_5195 metagenome",1,,,,,pending
+PRJNA697398,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0220FE14Z062817_5204 metagenome",1,,,,,pending
+PRJNA697409,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0317DE14Z082817_5607 metagenome",1,,,,,pending
+PRJNA697410,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0612WE14Z080117_5437 metagenome",1,,,,,pending
+PRJNA697411,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0821WE14Z070717_5297 metagenome",1,,,,,pending
+PRJNA697412,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0216DE14Z070717_5272 metagenome",1,,,,,pending
+PRJNA697413,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0512FE14Z081617_5539 metagenome",1,,,,,pending
+PRJNA697414,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0116DE14Z080117_5414 metagenome",1,,,,,pending
+PRJNA697415,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0503DE14Z070717_5284 metagenome",1,,,,,pending
+PRJNA697416,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0512LE14Z081617_5542 metagenome",1,,,,,pending
+PRJNA697417,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0612DE14Z082817_5616 metagenome",1,,,,,pending
+PRJNA697418,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0512FE14Z062817_5213 metagenome",1,,,,,pending
+PRJNA697419,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0113LE14Z071817_5339 metagenome",1,,,,,pending
+PRJNA697420,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0216WE14Z070717_5275 metagenome",1,,,,,pending
+PRJNA697421,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0116DE14Z082817_5596 metagenome",1,,,,,pending
+PRJNA697422,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0503WE14Z070717_5287 metagenome",1,,,,,pending
+PRJNA697423,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0512FE14Z071817_5357 metagenome",1,,,,,pending
+PRJNA697424,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - SB0710WE14Z080117_6839 metagenome",1,,,,,pending
+PRJNA697425,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0409DE14Z080117_6708 metagenome",1,,,,,pending
+PRJNA697772,Mortierella elongata AD073 and its bacterial endosymbionts - Endophytes metagenome,2,,,,,pending
+PRJNA698060,Genome-wide association study of citrus microbiome,68,,,,,pending
+PRJNA701747,Metagenomics Study of Pomegranate Rhizospheric Soil,3,,,,,pending
+PRJNA703972,Metagenomic sequencing of the Spartina alterniflora root microbiome,8,,,,,pending
+PRJNA707653,,3,,,,,pending
+PRJNA708254,Soil acidification of a Christmas tree plantation,6,,,,,pending
+PRJNA710504,"Rhizosphere soil microbial communities from rice plant in Newark, Delaware, United States - Rhiz_9GH_GED metagenome",1,,,,,pending
+PRJNA710633,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC1030F_E14_070516_91 metagenome",1,,,,,pending
+PRJNA710634,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0624L_E14_070516_95 metagenome",1,,,,,pending
+PRJNA710635,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC1030L_E14_070516_97 metagenome",1,,,,,pending
+PRJNA710636,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0126L_E14_070516_92 metagenome",1,,,,,pending
+PRJNA710637,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - SB0225D_E14_070716_130 metagenome",1,,,,,pending
+PRJNA710638,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0926D_E14_070716_133 metagenome",1,,,,,pending
+PRJNA710639,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB1023D_E14_070716_134 metagenome",1,,,,,pending
+PRJNA710640,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0117W_E14_070716_123 metagenome",1,,,,,pending
+PRJNA710641,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0627W_E14_070716_126 metagenome",1,,,,,pending
+PRJNA710642,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0926W_E14_070716_127 metagenome",1,,,,,pending
+PRJNA710643,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0530F_E14_072516_1294 metagenome",1,,,,,pending
+PRJNA710644,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0826F_E14_072516_1472 metagenome",1,,,,,pending
+PRJNA710645,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0913F_E14_072516_1519 metagenome",1,,,,,pending
+PRJNA710646,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0624L_E14_072516_1379 metagenome",1,,,,,pending
+PRJNA710647,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0727L_E14_072516_1442 metagenome",1,,,,,pending
+PRJNA710648,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0913L_E14_072516_1610 metagenome",1,,,,,pending
+PRJNA710649,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - SB0430D_E14_080116_2581 metagenome",1,,,,,pending
+PRJNA710650,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0714D_E14_080116_2979 metagenome",1,,,,,pending
+PRJNA710651,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0627D_E14_080116_2630 metagenome",1,,,,,pending
+PRJNA710652,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0515W_E14_080116_2592 metagenome",1,,,,,pending
+PRJNA710653,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0627W_E14_080116_2618 metagenome",1,,,,,pending
+PRJNA710654,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0926W_E14_080116_2642 metagenome",1,,,,,pending
+PRJNA710655,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0126F_E14_082316_1792 metagenome",1,,,,,pending
+PRJNA710656,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0415F_E14_082316_1937 metagenome",1,,,,,pending
+PRJNA710657,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0913F_E14_082316_2156 metagenome",1,,,,,pending
+PRJNA710658,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0218L_E14_082316_1902 metagenome",1,,,,,pending
+PRJNA710659,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0530L_E14_082316_2047 metagenome",1,,,,,pending
+PRJNA710660,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0913L_E14_082316_2192 metagenome",1,,,,,pending
+PRJNA710661,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - SB0117D_E14_082716_2253 metagenome",1,,,,,pending
+PRJNA710662,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0515D_E14_082716_2398 metagenome",1,,,,,pending
+PRJNA710663,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0926D_E14_082716_2496 metagenome",1,,,,,pending
+PRJNA710664,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0117W_E14_082716_2228 metagenome",1,,,,,pending
+PRJNA710665,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0627W_E14_082716_2423 metagenome",1,,,,,pending
+PRJNA710666,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0926W_E14_082716_2472 metagenome",1,,,,,pending
+PRJNA710723,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0503WE14Z082817_5613 metagenome",1,,,,,pending
+PRJNA710724,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0113LE14Z081617_5520 metagenome",1,,,,,pending
+PRJNA710725,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0821LE14Z071817_5372 metagenome",1,,,,,pending
+PRJNA710726,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0821LE14Z081617_5554 metagenome",1,,,,,pending
+PRJNA710727,"Rhizosphere microbial communities from Sorghum plant, Scottsbluff, Nebraska, USA - SB0116WE14Z082817_5593 metagenome",1,,,,,pending
+PRJNA710728,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0311LE14Z062817_5210 metagenome",1,,,,,pending
+PRJNA710729,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0311FE14Z081617_5533 metagenome",1,,,,,pending
+PRJNA710730,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0612LE14Z071817_5366 metagenome",1,,,,,pending
+PRJNA710731,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0612FE14Z071817_5363 metagenome",1,,,,,pending
+PRJNA710738,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0218F_E14_070516_87 metagenome",1,,,,,pending
+PRJNA710739,"Rhizosphere microbial communities from Sorghum plant, Central City, Nebraska, USA - CC0624F_E14_070516_89 metagenome",1,,,,,pending
+PRJNA712343,"Enriched cells from switchgrass rhizosphere in EcoFAB chamber, Walnut Creek, California, United States - Plant-Nitrogen_A SG_1 metagenome",1,,,,,pending
+PRJNA712344,"Enriched cells from switchgrass rhizosphere in EcoFAB chamber, Walnut Creek, California, United States - Plant-Nitrogen_B SG_2 metagenome",1,,,,,pending
+PRJNA712345,"Enriched cells from switchgrass rhizosphere in EcoFAB chamber, Walnut Creek, California, United States - Plant-Nitrogen_C SG_3 metagenome",1,,,,,pending
+PRJNA712346,"Enriched cells from switchgrass rhizosphere in EcoFAB chamber, Walnut Creek, California, United States - Plant-Nitrogen_D SG_4 metagenome",1,,,,,pending
+PRJNA712350,"Enriched cells from switchgrass rhizosphere in EcoFAB chamber, Walnut Creek, California, United States - Plant-Control_C SG_11 metagenome",1,,,,,pending
+PRJNA719981,Functional amplicon sequencing of suppressive soil,2,,,,,pending
+PRJNA720816,SolACE - Root-associated microbiota from potato plants exposed to no stress and combined stresses,12,,,,,pending
+PRJNA723704,The microbiome of three salt-tolerant plants,9,,,,,pending
+PRJNA725617,metagenome of samples from the Dragon Shaped Water System,6,,,,,pending
+PRJNA731454,Soil communities associated with the roots of Stipagrostis Metagenome,6,,,,,pending
+PRJNA732600,Accounting GHGs emission and carbon flow in temporal shift of tropical mangrove to agriculture,4,,,,,pending
+PRJNA746701,"Rhizosphere metagenomes from the Byers Peninsula, Livingston Island, Antarctica (62 S) Raw sequence reads",31,,,,,pending
+PRJNA75059,Phyllosphere and Rhizosphere Microbial Communitites,1,,,,,pending
+PRJNA751553,rhizosphere soil microbe squenceing of pioneer plants,9,,,,,pending
+PRJNA756119,The cucurbit root-associated microbiome,9,,,,,pending
+PRJNA756187,Functionality of the common bean microbiome through plant development,27,,,,,pending
+PRJNA758121,Microbial metagenomic data of rhizosphere soil in tobacco continuous cropping fields,12,,,,,pending
+PRJNA763048,Metagenome of Lettuce Rhizoshphere in Gauteng South Africa,15,,,,,pending
+PRJNA766489,Culture-independent analysis of rhizosphere microbial communities associated with tomato plants,9,,,,,pending
+PRJNA773609,Comparative Metagenomics of Paddy Microbiome,47,,,,,pending
+PRJNA776090,Mult-omics Data of Citrus Reticulata 'Chachi',59,,,,,pending
+PRJNA778086,Comparative metagenomic and metabolomic profiling of rhizospheres of Panax notoginseng grown under forest and field conditions,6,,,,,pending
+PRJNA779832,"Metagenomic data from sediments, bulk soils, and rhizosphere soils in the riverine ecosystem of eastern China",31,,,,,pending
+PRJNA780894,Galapagos San Cristobal plant-associated soil microbiome,6,,,,,pending
+PRJNA782751,Shotgun metagenomic sequencing of wheat field soil,4,,,,,pending
+PRJNA783518,Metagenome sequences of active rhizosphere,8,,,,,pending
+PRJNA786841,Tylophora indica Metagenome,1,,,,,pending
+PRJNA786857,Vaccinium populations in Portugal,9,,,,,pending
+PRJNA789467,Disentangling the genetic basis of rhizosphere microbiome assembly in tomato (metagenomics part),114,,,,,pending
+PRJNA792495,metagenome Assembly,6,,,,,pending
+PRJNA795580,,16,,,,,pending
+PRJNA796173,,1,,,,,pending
+PRJNA798176,Oil palm rhizosphere R014GS3 Metagenomic assembly,1,,,,,pending
+PRJNA798178,Oil palm rhizosphere R059GS3 Metagenomic assembly,1,,,,,pending
+PRJNA798181,Oil palm rhizosphere R102GS3 Metagenomic assembly,1,,,,,pending
+PRJNA799442,Robinia pseudoacacia L. soil Raw sequence reads,16,,,,,pending
+PRJNA800574,Revealing underlying mechanism for biochar-mediated growth promotion of Chinese cherry using metagenome sequencing,3,,,,,pending
+PRJNA801797,,1,,,,,pending
+PRJNA810272,,24,,,,,pending
+PRJNA818443,Maize microbiome from a long-term experiment in CENEB Mexico Metagenome,36,,,,,pending
+PRJNA819491,Paddy soil Raw sequence reads,8,,,,,pending
+PRJNA821718,Investigation of the diversities and functions of maize native microbial community towards plant health management,8,,,,,pending
+PRJNA828360,,10,,,,,pending
+PRJNA833565,Rhizosphere soil samples of different planting patterns Raw sequence reads,21,,,,,pending
+PRJNA835122,Bacteria in rhizosphere,112,,,,,pending
+PRJNA838064,Robinia pseudoacacia L. soil Raw sequence reads,48,,,,,pending
+PRJNA844897,"Culturomics of Andropogon gerardii in Colby, Kansas, USA",40,,,,,pending
+PRJNA853148,Metagenomic profiling of soil microbial communities associated with halophytes,5,,,,,pending
+PRJNA855473,Effect of phosphate solubilizing bacteria on soil phosphorus fractions and microbial community,6,,,,,pending
+PRJNA858550,Soil metagenome,2,,,,,pending
+PRJNA869844,"unvegetated sediment, Typha angustifolia root sediment,Typha angustifolia root Raw sequence reads",3,,,,,pending
+PRJNA871091,"Metagenomic analysis of the rhizosphere microbiome of drought-stressed, dry root rot infected field soil planted with chickpea by whole-genome shotgun sequencing.",9,,,,,pending
+PRJNA875879,Resource availability along root branching order drives spatial assembly of microorganisms,24,,,,,pending
+PRJNA876229,Genomes of rhizobacteria promoting canola growth Genome sequencing and assembly,3,,,,,pending
+PRJNA878924,Capsicum annuum L. rhizosphere soil,6,,,,,pending
+PRJNA882739,Striga hermonthica infested soil microbiome,4,,,,,pending
+PRJNA888840,Metagenomic sequence of Rhizosphere microbiome infected with Striga hermontheca,12,,,,,pending
+PRJNA889009,Desert soil microbiota culturomics,8,,,,,pending
+PRJNA889583,Metagenomics sequence of Rhizosphere microbiome infected with Striga hermontheca,12,,,,,pending
+PRJNA890392,Root-assiociated fungi of Pinus sylvestris var. mongolica in the Mu Us Desert,54,,,,,pending
+PRJNA890906,Microbiome of salt treated wild soybean,16,,,,,pending
+PRJNA895580,Detection of antibiotic resistance genes in soil and maize roots,6,,,,,pending
+PRJNA896778,Metagenome sequencing of Rhizosphere and bulk microbes from rice paddy,36,,,,,pending
+PRJNA901126,,5,,,,,pending
+PRJNA901887,,5,,,,,pending
+PRJNA904562,Metagenome sequencing of the rhizosphere and endosphere of common bean resistant to Fusarium oxysporum,30,,,,,pending
+PRJNA907080,Romaine Lettuce Microbial Analysis,2,,,,,pending
+PRJNA911313,Macrogenome of sugarcane rhizosphere soil under different nitrogen application levels,18,,,,,pending
+PRJNA914482,Fokienia hodginsii Raw sequence reads,9,,,,,pending
+PRJNA917217,SAEILMI AND MILYANG360 RHIZOSPHERE AND ENDOSPHERE MICROBIOME,24,,,,,pending
+PRJNA917456,SAEILMI AND MILYANG360 RHIZOSPHERE AND ENDOSPHERE MICROBIOME Rep2,60,,,,,pending
+PRJNA917505,Root-associated bacterial community,8,,,,,pending
+PRJNA924161,,1,,,,,pending
+PRJNA924230,,1,,,,,pending
+PRJNA926253,,5,,,,,pending
+PRJNA931801,soil metagenome inoculated without lactic acid bacteria Metagenome,2,,,,,pending
+PRJNA931813,Rice (Oryza sativa L.) rhizosphere soil Genome sequencing and assembly,12,,,,,pending
+PRJNA937903,Cereal rhizosphere metagenome for N cycling guild analyses,30,,,,,pending
+PRJNA939938,Watermelon_metagenome,8,,,,,pending
+PRJNA940606,Rhizosphere soils of wild rice (Oryza rufipogon) Metagenome,2,,,,,pending
+PRJNA942264,Microbial Guilds and Niches Enable Targeted Modifications of the Microbiome,265,,,,,pending
+PRJNA947344,Whole-metagenome shotgun sequencing of soil samples from Bhitarkanika mangrove ecosystem for bacterial community analysis,8,,,,,pending
+PRJNA949703,"Rhizosphere soil microbial communities from rice plant in Newark, Delaware, United States - Rhiz_9BH_GED metagenome",1,,,,,pending
+PRJNA949704,"Rhizosphere soil microbial communities from rice plants in Newark, Delaware, United States - Bulk_9BB_GED metagenome",1,,,,,pending
+PRJNA952100,Metagenomic analysis of soil microbial communities,12,,,,,pending
+PRJNA955173,Zea mays rhizobiome,6,,,,,pending
+PRJNA967213,Fresh Fritillaria unibracteata rhizosphere soil Raw sequence reads,9,,,,,pending
+PRJNA983103,rhizosphere metagenome Genome sequencing and assembly,1,,,,,pending
+PRJNA985080,rhizosphere Raw sequence reads,44,,,,,pending
+PRJNA985394,"Bacterial, eukaryotic and fungal communities in the seawater and root sediment surrounding seagrass Zostera marina Raw sequence reads",4,,,,,pending
+PRJNA992358,Response of Nano-N (nano-urea) and Nano-Zn fertilizers to soil microbial community,8,,,,,pending
+PRJNA993396,Response of Nano-N (nano-urea) and Nano-Zn fertilizers to soil microbial community in response to Mustard-Pearl millet ecosystem Metagenome,6,,,,,pending

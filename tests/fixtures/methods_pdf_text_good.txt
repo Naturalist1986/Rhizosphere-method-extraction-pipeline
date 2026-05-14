@@ -1,0 +1,27 @@
+
+2. Materials and Methods
+
+2.1 Study Site and Soil Sampling
+
+Soil and rhizosphere samples were collected from a wheat field in northern Israel during the
+vegetative growth stage. To obtain rhizosphere soil, plants were carefully uprooted and the
+loosely adhering soil was removed by gentle shaking. The tightly adhering rhizosphere soil
+was then collected by shaking the roots vigorously and brushing off the remaining soil. Bulk
+soil was collected from inter-row positions at least 30 cm from any plant. Samples were
+collected from 0-10 cm depth using a sterile spatula, immediately placed in sterile 50 mL
+Falcon tubes, and transported on dry ice to the laboratory within 4 hours.
+
+2.2 DNA Extraction and Sequencing
+
+DNA was extracted from 0.25 g of each rhizosphere soil sample using the DNeasy PowerSoil
+Pro Kit (Qiagen) following the manufacturer's instructions. DNA concentration and quality
+were assessed using a NanoDrop spectrophotometer (Thermo Fisher Scientific). Samples
+with A260/A280 ratios between 1.7 and 2.0 were used for downstream analyses. The 16S
+rRNA gene (V3-V4 region) was amplified using primers 341F and 806R in triplicate reactions.
+
+2.3 Bioinformatics Analysis
+
+Paired-end reads were quality-trimmed with Trimmomatic v0.39. Amplicon sequence variants
+(ASVs) were inferred with DADA2. Taxonomy was assigned against the SILVA 138 database.
+
+3. Results

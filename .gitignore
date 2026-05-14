@@ -1,0 +1,12 @@
+data/*.json
+data/*.csv
+data/*.log
+data/*.xlsx
+!data/.gitkeep
+relevant_papers/*.pdf
+rhizosphere_combined_*.xlsx
+candidates_*.xlsx
+__pycache__/
+*.pyc
+.env
+nohup.out

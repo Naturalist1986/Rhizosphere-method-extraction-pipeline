@@ -1,0 +1,13 @@
+Abstract
+
+Nitrogen-cycling communities in the rhizosphere play a key role in plant nutrition.
+
+Introduction
+
+The rhizosphere is the narrow zone of soil directly influenced by root exudates. Root-adhering
+soil was separated from roots by vortexing in phosphate buffer and centrifugation. We collected
+root system samples from 5 replicate plots. The rhizosphere soil fraction was obtained by
+washing roots thoroughly and collecting the wash. Metagenome libraries were prepared from
+0.5 g of soil per sample.
+
+Discussion
