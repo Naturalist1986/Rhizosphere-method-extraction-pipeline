@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """Stage 12 — merge stage-11 methods into the master rhizosphere_combined xlsx.
 
-For every row, look up bp_methods by bioproject and populate:
+Rows whose bioproject has no PDF-backed method extraction (i.e. not present in
+the latest bp_methods JSON) are dropped from the output entirely.
+
+For each surviving row, populate:
   Rhizosphere_Method      (one-word label derived from confidence)
   sampling_method         (verbatim_excerpt)
   paper_pmid, paper_doi, paper_title    (from manifest)
   _zotero_item_key        (from manifest)
-  pdf_available           (True if confidence != 'no_pdf')
+  pdf_available           (always True for emitted rows)
   notes                   (depth + root_processing + manifest source)
 
 Output: rhizosphere_combined_<today>.xlsx in cwd (or alongside --master input)
@@ -21,7 +24,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 MANIFEST = DATA / "candidates_zotero_manifest.json"
 
-CONF_TO_LABEL = {"high": "Good", "medium": "Acceptable", "low": "Weak", "no_pdf": "NoPDF"}
+CONF_TO_LABEL = {"high": "Good", "medium": "Acceptable", "low": "Weak"}
 
 
 def latest_methods_file() -> Path:
@@ -45,22 +48,23 @@ def main() -> None:
     methods = json.loads(latest_methods_file().read_text())
     manifest = {m["bioproject"]: m for m in json.loads(MANIFEST.read_text())}
 
+    n_before = len(df)
+    df = df[df["bioproject"].astype(str).isin(methods)].reset_index(drop=True)
+    n_dropped = n_before - len(df)
+    print(f"dropped {n_dropped} rows with no PDF-backed method extraction")
+
     new_rhizo, new_sm, new_pmid, new_doi, new_ptitle, new_zkey, new_pdf, new_notes = (
         [], [], [], [], [], [], [], [])
     for bp in df["bioproject"].astype(str):
-        m = methods.get(bp)
+        m = methods[bp]
         man = manifest.get(bp, {})
-        if not m:
-            new_rhizo.append(None); new_sm.append(None); new_pmid.append(None)
-            new_doi.append(None); new_ptitle.append(None); new_zkey.append(None)
-            new_pdf.append(None); new_notes.append(None); continue
         new_rhizo.append(CONF_TO_LABEL.get(m["confidence"]))
         new_sm.append(m.get("verbatim_excerpt") or None)
         new_pmid.append(man.get("pmid"))
         new_doi.append(man.get("doi"))
         new_ptitle.append(man.get("title"))
         new_zkey.append(m.get("zotero_item_key"))
-        new_pdf.append(m["confidence"] != "no_pdf")
+        new_pdf.append(True)
         notes_bits = []
         if m.get("sampling_depth_cm"): notes_bits.append(f"depth={m['sampling_depth_cm']}cm")
         if m.get("root_processing"):   notes_bits.append(f"processing={m['root_processing']}")

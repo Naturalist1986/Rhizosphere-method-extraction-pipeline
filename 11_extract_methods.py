@@ -53,8 +53,7 @@ def main() -> None:
         key = entry["zotero_item_key"]
         text = _fulltext_zotero(z, key) or _fulltext_local(key)
         if not text:
-            results[bp] = {"bioproject": bp, "zotero_item_key": key,
-                           "confidence": "no_pdf", "verbatim_excerpt": ""}
+            print(f"  skip {bp}: no PDF")
             continue
         m = extract_rhizosphere_method(text)
         m["bioproject"] = bp
