@@ -21,6 +21,9 @@ An end-to-end pipeline that takes a list of NCBI BioProject IDs, discovers their
 10_pdf_download_report.py      → report which Zotero items still need PDFs [HUMAN STEP]
 11_extract_methods.py    → LLM-based method extraction from PDFs
 12_merge_into_master.py  → merge extracted methods into master XLSX
+13 (NotebookLM)          → NotebookLM-assisted method summarization     [HUMAN STEP]
+14 (manual fill)         → manual fill-in of cited / supplementary methods [HUMAN STEP]
+15_classify_buckets.py   → 7-bucket classification + auxiliary flags
 ```
 
 ---
@@ -85,6 +88,20 @@ python 11_extract_methods.py
 
 # Stage 12: merge methods into master XLSX
 python 12_merge_into_master.py --master /path/to/rhizosphere_combined.xlsx
+
+# Stage 13: NotebookLM-assisted method extraction  [HUMAN STEP]
+#   See docs/13_notebooklm_extraction.md for the procedure.
+#   Output: master XLSX gains `Rhizosphere_extraction_summary` column.
+
+# Stage 14: Manual fill-in for cited / supplementary methods  [HUMAN STEP]
+#   See docs/14_manual_fill.md for the procedure.
+#   Output: master XLSX gains `Rhizosphere_extraction_method` column,
+#           saved as data/rhizosphere_methods_review_manual.xlsx.
+
+# Stage 15: 7-bucket classification + auxiliary flags
+python 15_classify_buckets.py \
+    --input  data/rhizosphere_methods_review_manual.xlsx \
+    --output data/rhizosphere_methods_review_coded.xlsx
 ```
 
 ---
@@ -107,6 +124,9 @@ python 12_merge_into_master.py --master /path/to/rhizosphere_combined.xlsx
 | 10 | `10_pdf_download_report.py` | Stage 09 manifest | `data/pdfs_needed.csv` | Report missing PDFs **[HUMAN STEP]** |
 | 11 | `11_extract_methods.py` | PDFs + Stage 09 | `data/bp_methods_<date>.json` | LLM method extraction |
 | 12 | `12_merge_into_master.py` | Stage 11 + master xlsx | `rhizosphere_combined_<date>.xlsx` | Merge into master dataset |
+| 13 | (NotebookLM, manual) | PDFs in Zotero + `relevant_papers/` | `Rhizosphere_extraction_summary` column | NotebookLM-assisted per-paper paragraph **[HUMAN STEP — see `docs/13_notebooklm_extraction.md`]** |
+| 14 | (manual curation) | Stage 13 master xlsx | `Rhizosphere_extraction_method` column → `rhizosphere_methods_review_manual.xlsx` | Manually fill in methods that the paper outsourced to a citation or to supplementary material **[HUMAN STEP — see `docs/14_manual_fill.md`]** |
+| 15 | `15_classify_buckets.py` | `rhizosphere_methods_review_manual.xlsx` | `rhizosphere_methods_review_coded.xlsx` | Apply 7-bucket decision tree + auxiliary flag columns |
 
 ---
 
@@ -176,6 +196,47 @@ Stage 10 prints a CSV of items that still need PDFs. The pipeline must pause her
 | `_zotero_item_key` | string | Zotero item key |
 | `pdf_available` | bool | Whether a PDF was found |
 | `notes` | string | Depth, root processing, source method |
+
+---
+
+## Classification scheme (stage 15)
+
+Stage 15 collapses every BioProject's free-text protocol into one of seven
+mutually-exclusive buckets via a strict decision tree:
+
+| Order | Question | If YES → bucket |
+|---|---|---|
+| 1 | Method described at all? | NO → **Not described** |
+| 2 | Root/soil separation step performed? | NO → **Bulk-near-root coring** |
+| 3 | Liquid buffer used? | NO → **Dry separation** |
+| 4 | Sonication applied? | YES → **Sonication-based** |
+| 5 | Surfactant added (Tween 20, Silwet L-77, sodium pyrophosphate)? | YES → **Surfactant-assisted** |
+| 6 | Preservation buffer (RNAlater, LifeGuard, glycerol, SM buffer)? | YES → **Preservation-embedded** |
+| 7 | (default) | **Buffer wash + vortex** |
+
+Apply strictly in order; the first YES terminates. Multi-step protocols are
+classified by the most intensive step (e.g. PBS-vortex → sonicate is
+*Sonication-based*).
+
+Edge rules:
+- NaCl/saline counts as **buffer**, not surfactant.
+- Sodium pyrophosphate counts as **surfactant** (dispersant).
+- Ice/cooling for transport is **not** a preservation buffer — the
+  preservation buffer must be present *during the extraction step*.
+
+The script writes 14 new columns including bucket, an explicit-definition
+flag, definition type (`distance` / `tight-vs-loose` / `depth-radius` /
+`container` / `compartment-explicit` / `none`), distance threshold in mm,
+buffer identity, wash time, centrifugation g-force, whether a bulk soil
+control was collected, dry sub-type (shake / brush / both), sieving info,
+whether the downstream workflow included root surface sterilization, and a
+per-row confidence (high / medium / low). Low-confidence rows are printed
+to stdout for human review.
+
+`BUCKETS{}` in `15_classify_buckets.py` is hand-curated per row for the
+183-row reference dataset. When re-applying this stage to a new
+manual-review XLSX, re-curate `BUCKETS{}` (and `OVERRIDES{}`) row-by-row;
+the regex helpers for the auxiliary columns are dataset-agnostic.
 
 ---
 
